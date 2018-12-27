@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter9_ImplentingPredictiveAnalytics", "Chapter9_ImplentingPredictiveAnalytics\Chapter9_ImplentingPredictiveAnalytics.csproj", "{B330BF8D-A84F-4475-86D0-B1A1E98E6FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter9_ImplentingPredictiveAnalytics.Web", "Chapter9_ImplentingPredictiveAnalytics.Web\Chapter9_ImplentingPredictiveAnalytics.Web.csproj", "{10B60256-E4B6-4969-A282-1FE0CBD7A5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B330BF8D-A84F-4475-86D0-B1A1E98E6FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B330BF8D-A84F-4475-86D0-B1A1E98E6FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B330BF8D-A84F-4475-86D0-B1A1E98E6FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B330BF8D-A84F-4475-86D0-B1A1E98E6FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B60256-E4B6-4969-A282-1FE0CBD7A5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B60256-E4B6-4969-A282-1FE0CBD7A5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B60256-E4B6-4969-A282-1FE0CBD7A5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B60256-E4B6-4969-A282-1FE0CBD7A5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

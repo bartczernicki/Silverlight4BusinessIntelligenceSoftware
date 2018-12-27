@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\AppendixB_BulletGraphScenarios\AppendixB_BulletGraphScenarios.Web\bin\AppendixB_BulletGraphScenarios.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\AppendixB_BulletGraphScenarios\AppendixB_BulletGraphScenarios.Web\bin\AppendixB_BulletGraphScenarios.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\AppendixB_BulletGraphScenarios\AppendixB_BulletGraphScenarios.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\AppendixB_BulletGraphScenarios\AppendixB_BulletGraphScenarios.Web\obj\Debug\AppendixB_BulletGraphScenarios.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\AppendixB_BulletGraphScenarios\AppendixB_BulletGraphScenarios.Web\obj\Debug\AppendixB_BulletGraphScenarios.Web.pdb

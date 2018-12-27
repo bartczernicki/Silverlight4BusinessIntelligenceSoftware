@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter9\Chapter9_ImplentingPredictiveAnalytics\Chapter9_ImplentingPredictiveAnalytics.Web\bin\Chapter9_ImplentingPredictiveAnalytics.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter9\Chapter9_ImplentingPredictiveAnalytics\Chapter9_ImplentingPredictiveAnalytics.Web\bin\Chapter9_ImplentingPredictiveAnalytics.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter9\Chapter9_ImplentingPredictiveAnalytics\Chapter9_ImplentingPredictiveAnalytics.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter9\Chapter9_ImplentingPredictiveAnalytics\Chapter9_ImplentingPredictiveAnalytics.Web\obj\Debug\Chapter9_ImplentingPredictiveAnalytics.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter9\Chapter9_ImplentingPredictiveAnalytics\Chapter9_ImplentingPredictiveAnalytics.Web\obj\Debug\Chapter9_ImplentingPredictiveAnalytics.Web.pdb

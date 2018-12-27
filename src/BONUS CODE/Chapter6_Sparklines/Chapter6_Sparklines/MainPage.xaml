@@ -1,0 +1,232 @@
+﻿<UserControl x:Class="Chapter6_Sparklines.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+    xmlns:chartingPrimitivesToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting.Primitives;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+    Width="640" Height="480" mc:Ignorable="d">
+    <UserControl.Resources>
+        
+    <!-- Override the default PolylineStyle width (set to 2)-->
+    <Style x:Key="SparklinePolyStyle" TargetType="Polyline">
+        <Setter Property="StrokeThickness" Value="0.75"/>
+    </Style>
+    </UserControl.Resources>
+
+    <StackPanel x:Name="LayoutRoot" Background="White" Loaded="LayoutRoot_Loaded" Margin="10,10,0,0">
+        <StackPanel x:Name="Domain1" Orientation="Horizontal" Margin="0,0,0,5">
+            <chartingToolkit:Chart Width="100" Height="25" Margin="0" d:LayoutOverrides="Width, Height" VerticalAlignment="Top">
+                <chartingToolkit:Chart.Template>
+                    <ControlTemplate TargetType="chartingToolkit:Chart">
+                        <chartingPrimitivesToolkit:EdgePanel x:Name="ChartArea">
+                            <Grid Canvas.ZIndex="-1" />
+                        </chartingPrimitivesToolkit:EdgePanel>
+                    </ControlTemplate>
+                </chartingToolkit:Chart.Template>
+                <chartingToolkit:Chart.Axes>
+                    <chartingToolkit:DateTimeAxis Orientation="X" MaxHeight="1" Opacity="0" Minimum="2008/07/07" Maximum="2008/09/08"/>
+                    <chartingToolkit:LinearAxis Orientation="Y" Opacity="1" Minimum="0" Maximum="100">
+                        <chartingToolkit:LinearAxis.AxisLabelStyle>
+                            <Style TargetType="chartingToolkit:AxisLabel">
+                                <Setter Property="StringFormat" Value="{}{0:0k}"/>
+                            </Style>
+                        </chartingToolkit:LinearAxis.AxisLabelStyle>
+                    </chartingToolkit:LinearAxis>
+                </chartingToolkit:Chart.Axes>
+
+                <!-- Reference Line -->
+                <chartingToolkit:LineSeries
+        			ItemsSource="{Binding Domain1ReferenceLine}"
+        			IndependentValueBinding="{Binding Date}"
+        			DependentValueBinding="{Binding NumberOfHits}">
+
+                    <!-- DataPointStyle -->
+                    <chartingToolkit:LineSeries.DataPointStyle>
+                        <Style TargetType="Control">
+                            <!-- Collapase the data points -->
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <!-- Set the opacity to zero -->
+                            <Setter Property="Opacity" Value="0.0"/>
+                            <!-- Set color to black -->
+                            <Setter Property="Background" Value="Black"/>
+                        </Style>
+                    </chartingToolkit:LineSeries.DataPointStyle>
+
+                    <chartingToolkit:LineSeries.PolylineStyle>
+                        <Style TargetType="Polyline">
+                            <Setter Property="Opacity" Value="0.75"/>
+                            <Setter Property="StrokeDashArray" Value="2" />
+                            <Setter Property="StrokeThickness" Value="0.75" />
+                        </Style>
+                    </chartingToolkit:LineSeries.PolylineStyle>
+                </chartingToolkit:LineSeries>
+
+                <!-- Data Line -->
+                <chartingToolkit:LineSeries
+        			ItemsSource="{Binding Domain1}"
+        			IndependentValueBinding="{Binding Date}"
+        			DependentValueBinding="{Binding NumberOfHits}"
+        			PolylineStyle="{StaticResource SparklinePolyStyle}">
+
+                    <!-- DataPointStyle -->
+                    <chartingToolkit:LineSeries.DataPointStyle>
+                        <Style TargetType="Control">
+                            <!-- Collapase the data points -->
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <!-- Set the opacity to zero -->
+                            <Setter Property="Opacity" Value="0.0"/>
+                            <!-- Set color to black -->
+                            <Setter Property="Background" Value="Black"/>
+                        </Style>
+                    </chartingToolkit:LineSeries.DataPointStyle>
+                </chartingToolkit:LineSeries>
+            </chartingToolkit:Chart>
+
+            <TextBlock x:Name="domain1Label" FontWeight="Bold" Text="domain1.com: " TextWrapping="Wrap"/>
+            <TextBlock Text="60k visitors" TextWrapping="Wrap"/>
+        </StackPanel>
+
+        <StackPanel x:Name="Domain2" Orientation="Horizontal" Margin="0,0,0,5">
+            <chartingToolkit:Chart Width="100" Height="25" Margin="0" d:LayoutOverrides="Height">
+                <chartingToolkit:Chart.Template>
+                    <ControlTemplate TargetType="chartingToolkit:Chart">
+                        <chartingPrimitivesToolkit:EdgePanel x:Name="ChartArea">
+                            <Grid Canvas.ZIndex="-1" />
+                        </chartingPrimitivesToolkit:EdgePanel>
+                    </ControlTemplate>
+                </chartingToolkit:Chart.Template>
+                <chartingToolkit:Chart.Axes>
+                    <chartingToolkit:DateTimeAxis Orientation="X" MaxHeight="1" Opacity="0" Minimum="2008/07/07" Maximum="2008/09/08"/>
+                    <chartingToolkit:LinearAxis Orientation="Y" Opacity="1" Minimum="20" Maximum="92"/>
+                </chartingToolkit:Chart.Axes>
+
+                <!-- Reference Line -->
+                <chartingToolkit:LineSeries
+        			ItemsSource="{Binding Domain2ReferenceLine}"
+        			IndependentValueBinding="{Binding Date}"
+        			DependentValueBinding="{Binding NumberOfHits}">
+
+                    <!-- DataPointStyle -->
+                    <chartingToolkit:LineSeries.DataPointStyle>
+                        <Style TargetType="Control">
+                            <!-- Collapase the data points -->
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <!-- Set the opacity to zero -->
+                            <Setter Property="Opacity" Value="0.0"/>
+                            <!-- Set color to black -->
+                            <Setter Property="Background" Value="Black"/>
+                        </Style>
+                    </chartingToolkit:LineSeries.DataPointStyle>
+
+                    <chartingToolkit:LineSeries.PolylineStyle>
+                        <Style TargetType="Polyline">
+                            <Setter Property="Opacity" Value="0.75"/>
+                            <Setter Property="StrokeDashArray" Value="2" />
+                            <Setter Property="StrokeThickness" Value="0.75" />
+                        </Style>
+                    </chartingToolkit:LineSeries.PolylineStyle>
+                </chartingToolkit:LineSeries>
+
+                <chartingToolkit:LineSeries
+        			ItemsSource="{Binding Domain2}"
+        			IndependentValueBinding="{Binding Date}"
+        			DependentValueBinding="{Binding NumberOfHits}"
+        			PolylineStyle="{StaticResource SparklinePolyStyle}">
+
+                    <!-- DataPointStyle -->
+                    <chartingToolkit:LineSeries.DataPointStyle>
+                        <Style TargetType="Control">
+                            <!-- Collapase the data points -->
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <!-- Set the opacity to zero -->
+                            <Setter Property="Opacity" Value="0.0"/>
+                            <!-- Set color to black -->
+                            <Setter Property="Background" Value="Black"/>
+                        </Style>
+                    </chartingToolkit:LineSeries.DataPointStyle>
+                </chartingToolkit:LineSeries>
+
+            </chartingToolkit:Chart>
+            <TextBlock x:Name="domain2Label" FontWeight="Bold" Text="domain2.com: " TextWrapping="Wrap" HorizontalAlignment="Left"/>
+            <TextBlock Text="45k visitors" TextWrapping="Wrap" HorizontalAlignment="Left"/>
+        </StackPanel>
+
+        <StackPanel x:Name="Domain3" Orientation="Horizontal" Margin="0,0,0,5">
+            <chartingToolkit:Chart Width="100" Height="25" Margin="0">
+
+                <!-- Hide the border edges -->
+                <chartingToolkit:Chart.Template>
+                    <ControlTemplate TargetType="chartingToolkit:Chart">
+                        <chartingPrimitivesToolkit:EdgePanel x:Name="ChartArea">
+                            <Grid Canvas.ZIndex="-1" />
+                        </chartingPrimitivesToolkit:EdgePanel>
+                    </ControlTemplate>
+                </chartingToolkit:Chart.Template>
+
+                <!-- Format the axes for a sparkline -->
+                <chartingToolkit:Chart.Axes>
+                    <chartingToolkit:DateTimeAxis Orientation="X" MaxHeight="1" Opacity="0" Minimum="2008/07/07" Maximum="2008/09/08"/>
+                    <chartingToolkit:LinearAxis Orientation="Y" Opacity="1" Minimum="20" Maximum="85"/>
+                </chartingToolkit:Chart.Axes>
+
+                <!-- Reference Line Series -->
+                <chartingToolkit:LineSeries
+		            ItemsSource="{Binding Domain3ReferenceLine}"
+		            IndependentValueBinding="{Binding Date}"
+		            DependentValueBinding="{Binding NumberOfHits}">
+
+                    <!-- DataPointStyle -->
+                    <chartingToolkit:LineSeries.DataPointStyle>
+                        <Style TargetType="Control">
+                            <!-- Collapase the data points -->
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <!-- Set the opacity to zero -->
+                            <Setter Property="Opacity" Value="0.0"/>
+                            <!-- Set color to black -->
+                            <Setter Property="Background" Value="Black"/>
+                        </Style>
+                    </chartingToolkit:LineSeries.DataPointStyle>
+
+                    <!-- Use dashes for reference line -->
+                    <chartingToolkit:LineSeries.PolylineStyle>
+                        <Style TargetType="Polyline">
+                            <Setter Property="Opacity" Value="0.75"/>
+                            <Setter Property="StrokeDashArray" Value="2" />
+                            <Setter Property="StrokeThickness" Value="0.75" />
+                        </Style>
+                    </chartingToolkit:LineSeries.PolylineStyle>
+                </chartingToolkit:LineSeries>
+
+                <!-- Data Line Series -->
+                <chartingToolkit:LineSeries
+		            ItemsSource="{Binding Domain3}"
+		            IndependentValueBinding="{Binding Date}"
+		            DependentValueBinding="{Binding NumberOfHits}" >
+
+                    <!-- DataPointStyle -->
+                    <chartingToolkit:LineSeries.DataPointStyle>
+                        <Style TargetType="Control">
+                            <!-- Collapase the data points -->
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <!-- Set the opacity to zero -->
+                            <Setter Property="Opacity" Value="0.0"/>
+                            <!-- Set color to black -->
+                            <Setter Property="Background" Value="Black"/>
+                        </Style>
+                    </chartingToolkit:LineSeries.DataPointStyle>
+
+                    <!-- Use thin primary line -->
+                    <chartingToolkit:LineSeries.PolylineStyle>
+                        <Style TargetType="Polyline">
+                            <Setter Property="StrokeThickness" Value="0.75" />
+                        </Style>
+                    </chartingToolkit:LineSeries.PolylineStyle>
+                </chartingToolkit:LineSeries>
+            </chartingToolkit:Chart>
+
+            <TextBlock x:Name="domain3Label" FontWeight="Bold" Text="domain3.com: " TextWrapping="Wrap" HorizontalAlignment="Left"/>
+            <TextBlock Text="33k visitors" TextWrapping="Wrap" HorizontalAlignment="Left"/>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,7 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\AppendixB\SilverlightBulletGraphApp_Part4_BusinessIntelligenceScenarios\SilverlightBulletGraph\Bin\Release\SilverlightBulletGraph.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\AppendixB\SilverlightBulletGraphApp_Part4_BusinessIntelligenceScenarios\SilverlightBulletGraph\Bin\Release\SilverlightBulletGraph.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\AppendixB\SilverlightBulletGraphApp_Part4_BusinessIntelligenceScenarios\SilverlightBulletGraph\obj\Release\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\AppendixB\SilverlightBulletGraphApp_Part4_BusinessIntelligenceScenarios\SilverlightBulletGraph\obj\Release\BulletGraph.g.i.cs
+F:\Bart\Book_Rev2\Source Code\Version 3\AppendixB\SilverlightBulletGraphApp_Part4_BusinessIntelligenceScenarios\SilverlightBulletGraph\obj\Release\SilverlightBulletGraph.g.resources
+F:\Bart\Book_Rev2\Source Code\Version 3\AppendixB\SilverlightBulletGraphApp_Part4_BusinessIntelligenceScenarios\SilverlightBulletGraph\obj\Release\SilverlightBulletGraph.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\AppendixB\SilverlightBulletGraphApp_Part4_BusinessIntelligenceScenarios\SilverlightBulletGraph\obj\Release\SilverlightBulletGraph.pdb

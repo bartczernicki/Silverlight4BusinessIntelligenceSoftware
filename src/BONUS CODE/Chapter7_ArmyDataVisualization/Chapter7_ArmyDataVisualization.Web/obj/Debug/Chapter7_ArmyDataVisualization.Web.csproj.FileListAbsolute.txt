@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_ArmyDataVisualization\Chapter7_ArmyDataVisualization.Web\bin\Chapter7_ArmyDataVisualization.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_ArmyDataVisualization\Chapter7_ArmyDataVisualization.Web\bin\Chapter7_ArmyDataVisualization.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_ArmyDataVisualization\Chapter7_ArmyDataVisualization.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_ArmyDataVisualization\Chapter7_ArmyDataVisualization.Web\obj\Debug\Chapter7_ArmyDataVisualization.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_ArmyDataVisualization\Chapter7_ArmyDataVisualization.Web\obj\Debug\Chapter7_ArmyDataVisualization.Web.pdb

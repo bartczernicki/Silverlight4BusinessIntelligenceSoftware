@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter10_GPUAcceleration", "Chapter10_GPUAcceleration\Chapter10_GPUAcceleration.csproj", "{5D476E5E-13E5-4C56-8F1E-BC7AFAC95830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter10_GPUAcceleration.Web", "Chapter10_GPUAcceleration.Web\Chapter10_GPUAcceleration.Web.csproj", "{11583F71-FD5C-44CE-A6C5-CA206B930565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D476E5E-13E5-4C56-8F1E-BC7AFAC95830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D476E5E-13E5-4C56-8F1E-BC7AFAC95830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D476E5E-13E5-4C56-8F1E-BC7AFAC95830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D476E5E-13E5-4C56-8F1E-BC7AFAC95830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11583F71-FD5C-44CE-A6C5-CA206B930565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11583F71-FD5C-44CE-A6C5-CA206B930565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11583F71-FD5C-44CE-A6C5-CA206B930565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11583F71-FD5C-44CE-A6C5-CA206B930565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

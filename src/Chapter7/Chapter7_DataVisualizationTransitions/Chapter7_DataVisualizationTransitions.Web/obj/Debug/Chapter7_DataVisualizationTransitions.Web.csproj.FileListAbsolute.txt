@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter7\Chapter7_DataVisualizationTransitions\Chapter7_DataVisualizationTransitions.Web\bin\Chapter7_DataVisualizationTransitions.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter7\Chapter7_DataVisualizationTransitions\Chapter7_DataVisualizationTransitions.Web\bin\Chapter7_DataVisualizationTransitions.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter7\Chapter7_DataVisualizationTransitions\Chapter7_DataVisualizationTransitions.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter7\Chapter7_DataVisualizationTransitions\Chapter7_DataVisualizationTransitions.Web\obj\Debug\Chapter7_DataVisualizationTransitions.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter7\Chapter7_DataVisualizationTransitions\Chapter7_DataVisualizationTransitions.Web\obj\Debug\Chapter7_DataVisualizationTransitions.Web.pdb

@@ -1,0 +1,82 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Chapter12_WinPhoneConcurrencyProgramming.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent" Loaded="LayoutRoot_Loaded">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="multithreading" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Sliders" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentGrid is empty. Place new content here-->
+        <StackPanel x:Name="ContentGrid" Grid.Row="1">
+            <StackPanel Height="Auto" Margin="10,0,0,0" Width="Auto" Orientation="Vertical">
+                <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,5,5" Width="Auto" Text="Slider with little work" TextWrapping="Wrap"/>
+                <StackPanel Height="Auto" Width="Auto" HorizontalAlignment="Left" VerticalAlignment="Stretch" Orientation="Horizontal">
+                    <Slider Cursor="Hand" Height="100" x:Name="SliderSimple" Width="293" Margin="0,0,10,0" ValueChanged="SliderSimple_ValueChanged"/>
+                    <TextBlock Height="Auto" Width="Auto" Text="Slider Value:" TextWrapping="Wrap" Margin="0,0,10,0"/>
+                    <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" x:Name="txtSliderSimpleValue"/>
+                </StackPanel>
+                <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,0,5" Width="Auto" Text="Number of times event fired:" TextWrapping="Wrap"/>
+                <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" HorizontalAlignment="Left" x:Name="txtSliderSimpleNumberEventFires"/>
+            </StackPanel>
+
+            <!-- Single Threaded Section -->
+            <StackPanel Height="Auto" Width="Auto" Orientation="Vertical" Margin="10,10,0,5">
+                <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,5,5" Width="Auto" Text="Slider with 150ms delay (single threaded)" TextWrapping="Wrap"/>
+                <StackPanel Height="Auto" Width="Auto" Orientation="Horizontal">
+                    <Slider Cursor="Hand" Height="100" x:Name="SliderSingleThreaded" Width="292" Margin="0,0,10,0" ValueChanged="SliderSingleThreaded_ValueChanged"/>
+                    <TextBlock Height="Auto" Width="Auto" Text="Slider Value:" TextWrapping="Wrap" Margin="0,0,10,0"/>
+                    <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" x:Name="txtSliderSingleThreadedValue"/>
+                </StackPanel>
+                <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,0,5" Width="Auto" Text="Number of times event fired:" TextWrapping="Wrap"/>
+                <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" HorizontalAlignment="Left" x:Name="txtSliderSingleThreadNumberEventFires"/>
+            </StackPanel>
+
+            <!-- Multi Threaded Section -->
+            <StackPanel Height="Auto" Width="Auto" Orientation="Vertical" Margin="10,10,0,5">
+                <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,5,5" Width="Auto" Text="Slider with 150ms delay (multi threaded)" TextWrapping="Wrap"/>
+                <StackPanel Height="Auto" Width="Auto" HorizontalAlignment="Stretch" Orientation="Horizontal">
+                    <Slider Cursor="Hand" Height="100" x:Name="SliderMultiThreaded" Width="293" Margin="0,0,10,0" ValueChanged="SliderMultiThreaded_ValueChanged"/>
+                    <TextBlock Height="Auto" Width="Auto" Text="Slider Value:" TextWrapping="Wrap" Margin="0,0,10,0"/>
+                    <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" x:Name="txtSliderMultiThreadedValue"/>
+                </StackPanel>
+                <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,0,5" Width="Auto" Text="Number of times event fired:" TextWrapping="Wrap"/>
+                <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" HorizontalAlignment="Left" x:Name="txtSliderMultiThreadNumberEventFires"/>
+            </StackPanel>
+
+
+        </StackPanel>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

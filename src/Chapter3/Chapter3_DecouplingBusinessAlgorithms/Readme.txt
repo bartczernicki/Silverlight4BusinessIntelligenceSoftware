@@ -1,0 +1,2 @@
+The reason that this solution folder is named WorkingWithBusinessData is that the Coding scenario leverages the previous coding scenario.
+This coding scenario is: Decoupling Business Algorithms (you are in the right place)

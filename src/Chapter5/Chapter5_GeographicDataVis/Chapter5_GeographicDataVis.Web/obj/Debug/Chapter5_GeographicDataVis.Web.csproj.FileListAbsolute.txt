@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter5\Chapter5_GeographicDataVis\Chapter5_GeographicDataVis.Web\bin\Chapter5_GeographicDataVis.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter5\Chapter5_GeographicDataVis\Chapter5_GeographicDataVis.Web\bin\Chapter5_GeographicDataVis.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter5\Chapter5_GeographicDataVis\Chapter5_GeographicDataVis.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter5\Chapter5_GeographicDataVis\Chapter5_GeographicDataVis.Web\obj\Debug\Chapter5_GeographicDataVis.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter5\Chapter5_GeographicDataVis\Chapter5_GeographicDataVis.Web\obj\Debug\Chapter5_GeographicDataVis.Web.pdb

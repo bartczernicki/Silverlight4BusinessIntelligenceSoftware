@@ -1,0 +1,10 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_InteractiveDataPaging\Chapter4_InteractiveDataPaging.Web\bin\Chapter4_InteractiveDataPaging.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_InteractiveDataPaging\Chapter4_InteractiveDataPaging.Web\bin\Chapter4_InteractiveDataPaging.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_InteractiveDataPaging\Chapter4_InteractiveDataPaging.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_InteractiveDataPaging\Chapter4_InteractiveDataPaging.Web\obj\Debug\Chapter4_InteractiveDataPaging.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_InteractiveDataPaging\Chapter4_InteractiveDataPaging.Web\obj\Debug\Chapter4_InteractiveDataPaging.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_FluentDataFiltering\Chapter4_InteractiveDataPaging.Web\bin\Chapter4_InteractiveDataPaging.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_FluentDataFiltering\Chapter4_InteractiveDataPaging.Web\bin\Chapter4_InteractiveDataPaging.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_FluentDataFiltering\Chapter4_InteractiveDataPaging.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_FluentDataFiltering\Chapter4_InteractiveDataPaging.Web\obj\Debug\Chapter4_InteractiveDataPaging.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_FluentDataFiltering\Chapter4_InteractiveDataPaging.Web\obj\Debug\Chapter4_InteractiveDataPaging.Web.pdb

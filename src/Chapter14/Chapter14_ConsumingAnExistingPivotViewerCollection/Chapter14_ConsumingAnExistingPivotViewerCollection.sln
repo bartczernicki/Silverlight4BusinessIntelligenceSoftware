@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter14_ConsumingAnExistingPivotViewerCollection", "Chapter14_ConsumingAnExistingPivotViewerCollection.csproj", "{6BB8E349-A963-44F3-8074-144E87EB8D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter14_ConsumingAnExistingPivotViewerCollection.Web", "..\Chapter14_ConsumingAnExistingPivotViewerCollection.Web\Chapter14_ConsumingAnExistingPivotViewerCollection.Web.csproj", "{87DFE5B7-A0D7-4285-B434-F56729B82F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB8E349-A963-44F3-8074-144E87EB8D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB8E349-A963-44F3-8074-144E87EB8D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB8E349-A963-44F3-8074-144E87EB8D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB8E349-A963-44F3-8074-144E87EB8D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DFE5B7-A0D7-4285-B434-F56729B82F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DFE5B7-A0D7-4285-B434-F56729B82F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DFE5B7-A0D7-4285-B434-F56729B82F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DFE5B7-A0D7-4285-B434-F56729B82F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

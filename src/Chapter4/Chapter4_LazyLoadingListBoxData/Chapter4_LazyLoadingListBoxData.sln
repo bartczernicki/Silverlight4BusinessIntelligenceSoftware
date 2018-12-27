@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4_LazyLoadingListBoxData", "Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData.csproj", "{FE1A3C2D-D2C0-4829-B1B8-DD608D2DE2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4_LazyLoadingListBoxData.Web", "Chapter4_LazyLoadingListBoxData.Web\Chapter4_LazyLoadingListBoxData.Web.csproj", "{73E62C3C-119A-42F1-9A61-98E0B71A5804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1A3C2D-D2C0-4829-B1B8-DD608D2DE2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1A3C2D-D2C0-4829-B1B8-DD608D2DE2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1A3C2D-D2C0-4829-B1B8-DD608D2DE2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1A3C2D-D2C0-4829-B1B8-DD608D2DE2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E62C3C-119A-42F1-9A61-98E0B71A5804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E62C3C-119A-42F1-9A61-98E0B71A5804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E62C3C-119A-42F1-9A61-98E0B71A5804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E62C3C-119A-42F1-9A61-98E0B71A5804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

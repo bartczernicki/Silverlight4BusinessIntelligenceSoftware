@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection xmlns:p="http://schemas.microsoft.com/livelabs/pivot/collection/2009" SchemaVersion="1.0" Name="Sample Collection for Coding Scenario" xmlns="http://schemas.microsoft.com/collection/metadata/2009">
+  <FacetCategories>
+    <FacetCategory Name="Year" Type="Number" p:IsFilterVisible="true" p:IsWordWheelVisible="false" p:IsMetaDataVisible="true" />
+    <FacetCategory Name="Magazine" Type="String" p:IsFilterVisible="true" p:IsWordWheelVisible="true" p:IsMetaDataVisible="true" />
+  </FacetCategories>
+  <Items ImgBase="SampleCollection_files\cenhknen.kqc.xml">
+    <Item Id="0" Img="#0" Name="Chrysanthemum">
+      <Description>Closeup of flower</Description>
+      <Facets>
+        <Facet Name="Year">
+          <Number Value="1999" />
+        </Facet>
+        <Facet Name="Magazine">
+          <String Value="Flower Magazine" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="1" Img="#1" Name="Desert">
+      <Description>Desert landscape</Description>
+      <Facets>
+        <Facet Name="Year">
+          <Number Value="2000" />
+        </Facet>
+        <Facet Name="Magazine">
+          <String Value="Landscapes" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="2" Img="#2" Name="Hydrangeas">
+      <Description>Closeup of flowers</Description>
+      <Facets>
+        <Facet Name="Year">
+          <Number Value="2002" />
+        </Facet>
+        <Facet Name="Magazine">
+          <String Value="Flower Magazine" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="3" Img="#3" Name="Jellyfish">
+      <Description>Swimming jellyfish</Description>
+      <Facets>
+        <Facet Name="Year">
+          <Number Value="1999" />
+        </Facet>
+        <Facet Name="Magazine">
+          <String Value="Fish Magazine" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="4" Img="#4" Name="Koala">
+      <Description>Koala looking at me</Description>
+      <Facets>
+        <Facet Name="Year">
+          <Number Value="2001" />
+        </Facet>
+        <Facet Name="Magazine">
+          <String Value="Animals Inc" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="5" Img="#5" Name="Lighthouse">
+      <Description>Sunset and a lighthouse</Description>
+      <Facets>
+        <Facet Name="Year">
+          <Number Value="1999" />
+        </Facet>
+        <Facet Name="Magazine">
+          <String Value="Landscapes" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="6" Img="#6" Name="Penguinds">
+      <Description>Three Penguins</Description>
+      <Facets>
+        <Facet Name="Year">
+          <Number Value="2002" />
+        </Facet>
+        <Facet Name="Magazine">
+          <String Value="Animals Inc" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="7" Img="#7" Name="Tulips">
+      <Description>Bunch of tulips</Description>
+      <Facets>
+        <Facet Name="Year">
+          <Number Value="2001" />
+        </Facet>
+        <Facet Name="Magazine">
+          <String Value="Flower Magazine" />
+        </Facet>
+      </Facets>
+    </Item>
+  </Items>
+  <Extension>
+    <p:Copyright Name="No Copyright" />
+  </Extension>
+</Collection>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalCommunication", "LocalCommunication.csproj", "{C6DE077B-4238-4086-BC2A-BBBA62D939BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalCommunication.Web", "..\LocalCommunication.Web\LocalCommunication.Web.csproj", "{20E224C7-6442-4D54-883D-E28512B2C177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalCommunicationConsumer", "LocalCommunicationConsumer\LocalCommunicationConsumer.csproj", "{029351F5-BD99-4D97-AFDD-23F342CF47D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DE077B-4238-4086-BC2A-BBBA62D939BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DE077B-4238-4086-BC2A-BBBA62D939BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DE077B-4238-4086-BC2A-BBBA62D939BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DE077B-4238-4086-BC2A-BBBA62D939BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E224C7-6442-4D54-883D-E28512B2C177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E224C7-6442-4D54-883D-E28512B2C177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E224C7-6442-4D54-883D-E28512B2C177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E224C7-6442-4D54-883D-E28512B2C177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029351F5-BD99-4D97-AFDD-23F342CF47D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029351F5-BD99-4D97-AFDD-23F342CF47D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029351F5-BD99-4D97-AFDD-23F342CF47D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029351F5-BD99-4D97-AFDD-23F342CF47D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

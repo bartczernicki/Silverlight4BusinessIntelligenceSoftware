@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter3\Chapter3_WorkingWithBusinessData\Chapter3_WorkingWithBusinessData.Web\bin\Chapter3_WorkingWithBusinessData.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter3\Chapter3_WorkingWithBusinessData\Chapter3_WorkingWithBusinessData.Web\bin\Chapter3_WorkingWithBusinessData.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter3\Chapter3_WorkingWithBusinessData\Chapter3_WorkingWithBusinessData.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter3\Chapter3_WorkingWithBusinessData\Chapter3_WorkingWithBusinessData.Web\obj\Debug\Chapter3_WorkingWithBusinessData.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter3\Chapter3_WorkingWithBusinessData\Chapter3_WorkingWithBusinessData.Web\obj\Debug\Chapter3_WorkingWithBusinessData.Web.pdb

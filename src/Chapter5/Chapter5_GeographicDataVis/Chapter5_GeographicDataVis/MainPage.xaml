@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Chapter5_GeographicDataVis.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Microsoft_Maps_MapControl="clr-namespace:Microsoft.Maps.MapControl;assembly=Microsoft.Maps.MapControl" 
+	xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
+    mc:Ignorable="d"
+    Height="600" Width="900">
+
+    <Grid x:Name="LayoutRoot" Background="White" Loaded="LayoutRoot_Loaded">
+        <!--Center the map on Manhattan, New York -->
+        <Microsoft_Maps_MapControl:Map x:Name="silverlightMapControl" CredentialsProvider="[Put your credentials here..page 164 tells you where to find your credentials]" 
+        Center="40.71,-74.013" ZoomLevel="15" Mode="AerialWithLabels">
+            <!--Add a map layer for adding our visualizations -->
+            <Microsoft_Maps_MapControl:MapLayer x:Name="TaxiPickUpLayer"/>
+        </Microsoft_Maps_MapControl:Map>
+    </Grid>
+</UserControl>

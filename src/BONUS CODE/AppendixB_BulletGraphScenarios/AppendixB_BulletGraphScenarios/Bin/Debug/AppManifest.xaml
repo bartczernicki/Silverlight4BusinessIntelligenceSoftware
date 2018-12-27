@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="AppendixB_BulletGraphScenarios" EntryPointType="AppendixB_BulletGraphScenarios.App" RuntimeVersion="4.0.50826.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="AppendixB_BulletGraphScenarios" Source="AppendixB_BulletGraphScenarios.dll" />
+    <AssemblyPart x:Name="SilverlightBulletGraph" Source="SilverlightBulletGraph.dll" />
+  </Deployment.Parts>
+</Deployment>

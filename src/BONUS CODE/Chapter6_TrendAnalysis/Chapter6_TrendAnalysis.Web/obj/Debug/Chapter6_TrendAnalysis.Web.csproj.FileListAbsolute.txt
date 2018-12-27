@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_TrendAnalysis\Chapter6_TrendAnalysis.Web\bin\Chapter6_TrendAnalysis.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_TrendAnalysis\Chapter6_TrendAnalysis.Web\bin\Chapter6_TrendAnalysis.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_TrendAnalysis\Chapter6_TrendAnalysis.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_TrendAnalysis\Chapter6_TrendAnalysis.Web\obj\Debug\Chapter6_TrendAnalysis.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_TrendAnalysis\Chapter6_TrendAnalysis.Web\obj\Debug\Chapter6_TrendAnalysis.Web.pdb

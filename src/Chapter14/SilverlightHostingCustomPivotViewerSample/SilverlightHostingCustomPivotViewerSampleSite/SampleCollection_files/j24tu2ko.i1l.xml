@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection MaxLevel="7" TileSize="256" Format="jpg" NextItemId="8" ServerFormat="Default" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+  <Items>
+    <I Id="0" N="0" Source="images/Chrysanthemum.xml">
+      <Size Width="1024" Height="768" />
+    </I>
+    <I Id="1" N="1" Source="images/Desert.xml">
+      <Size Width="1024" Height="768" />
+    </I>
+    <I Id="2" N="2" Source="images/Hydrangeas.xml">
+      <Size Width="1024" Height="768" />
+    </I>
+    <I Id="3" N="3" Source="images/Jellyfish.xml">
+      <Size Width="1024" Height="768" />
+    </I>
+    <I Id="4" N="4" Source="images/Koala.xml">
+      <Size Width="1024" Height="768" />
+    </I>
+    <I Id="5" N="5" Source="images/Lighthouse.xml">
+      <Size Width="1024" Height="768" />
+    </I>
+    <I Id="6" N="6" Source="images/Penguins.xml">
+      <Size Width="1024" Height="768" />
+    </I>
+    <I Id="7" N="7" Source="images/Tulips.xml">
+      <Size Width="1024" Height="768" />
+    </I>
+  </Items>
+</Collection>

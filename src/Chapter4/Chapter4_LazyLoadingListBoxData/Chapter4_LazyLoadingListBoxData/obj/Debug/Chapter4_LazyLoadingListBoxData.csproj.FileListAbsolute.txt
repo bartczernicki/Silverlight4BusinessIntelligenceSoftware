@@ -1,0 +1,12 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\Bin\Debug\Chapter4_LazyLoadingListBoxData.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\Bin\Debug\Chapter4_LazyLoadingListBoxData.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\Bin\Debug\AppManifest.xaml
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\Bin\Debug\Chapter4_LazyLoadingListBoxData.xap
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\Bin\Debug\Chapter4_LazyLoadingListBoxDataTestPage.html
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\obj\Debug\Chapter4_LazyLoadingListBoxData.g.resources
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\obj\Debug\Chapter4_LazyLoadingListBoxData.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\obj\Debug\Chapter4_LazyLoadingListBoxData.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\obj\Debug\XapCacheFile.xml
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\obj\Debug\App.g.i.cs
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData\obj\Debug\MainPage.g.i.cs

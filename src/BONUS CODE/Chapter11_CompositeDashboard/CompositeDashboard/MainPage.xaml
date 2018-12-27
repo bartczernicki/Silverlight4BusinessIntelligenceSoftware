@@ -1,0 +1,66 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" xmlns:Blacklight_Controls="clr-namespace:Blacklight.Controls;assembly=Blacklight.Controls" xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit" xmlns:data="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data" x:Class="CompositeDashboard.MainPage"
+    d:DesignWidth="1500" d:DesignHeight="900">
+  <StackPanel x:Name="LayoutRoot" DataContext="{Binding Source={StaticResource SampleDataSource}}" Margin="15,0,0,0" Loaded="LayoutRoot_Loaded">
+
+		<Blacklight_Controls:DragDockPanelHost x:Name="DragPanelHostHeader"  Height="120" Width="1400" HorizontalAlignment="Left" Margin="0,0,0,0" d:LayoutOverrides="VerticalMargin">
+			<StackPanel>
+				<TextBlock Text="Company Employees of XYZ Inc." TextWrapping="Wrap" FontWeight="Bold" Foreground="White" FontSize="26.667" HorizontalAlignment="Center"/>
+				<StackPanel Height="30" Orientation="Horizontal">
+					<TextBlock Text="Region: " TextWrapping="Wrap" Foreground="White" FontWeight="Bold"/>
+					<ComboBox Width="120" Height="25" VerticalAlignment="Top">
+				        <ComboBoxItem Content="North"></ComboBoxItem>
+				        <ComboBoxItem Content="South"></ComboBoxItem>
+				        <ComboBoxItem IsSelected="True" Content="International"></ComboBoxItem> 
+					</ComboBox>
+					<TextBlock Text="Fulltime: " TextWrapping="Wrap" Foreground="White" FontWeight="Bold" Margin="10,0,0,0"/>
+					<ComboBox Width="120" Height="25" VerticalAlignment="Top">
+				        <ComboBoxItem Content="Yes"></ComboBoxItem>
+				        <ComboBoxItem Content="No"></ComboBoxItem>
+					</ComboBox>
+				</StackPanel>
+			</StackPanel>
+		</Blacklight_Controls:DragDockPanelHost>
+
+  	<Blacklight_Controls:DragDockPanelHost x:Name="DragPanelHost"  Height="800" Width="1400" HorizontalAlignment="Left" Margin="0,0,0,0" d:LayoutOverrides="Height, VerticalMargin">
+  		<chartingToolkit:Chart Margin="5" Title="Chart Title">
+  			<chartingToolkit:Chart.DataContext>
+  				<PointCollection>
+  					<Point>1,10</Point>
+  					<Point>2,20</Point>
+  					<Point>3,30</Point>
+  					<Point>4,40</Point>
+  				</PointCollection>
+  			</chartingToolkit:Chart.DataContext>
+  			<chartingToolkit:ColumnSeries DependentValuePath="X" IndependentValuePath="Y" ItemsSource="{Binding}"/>
+  		</chartingToolkit:Chart>
+  		<chartingToolkit:Chart Title="Chart Title" Margin="5">
+  			<chartingToolkit:Chart.DataContext>
+  				<PointCollection>
+  					<Point>1,10</Point>
+  					<Point>2,20</Point>
+  					<Point>3,30</Point>
+  					<Point>4,40</Point>
+  				</PointCollection>
+  			</chartingToolkit:Chart.DataContext>
+  			<chartingToolkit:BarSeries DependentValuePath="X" IndependentValuePath="Y" ItemsSource="{Binding}"/>
+  		</chartingToolkit:Chart>
+  		<chartingToolkit:Chart x:Name="PieChart" Title="Pie Chart" Margin="5">
+  			<chartingToolkit:Chart.DataContext>
+  				<PointCollection>
+  					<Point>1,10</Point>
+  					<Point>2,20</Point>
+  					<Point>3,30</Point>
+  					<Point>4,40</Point>
+  				</PointCollection>
+  			</chartingToolkit:Chart.DataContext>
+  			<chartingToolkit:PieSeries DependentValuePath="X" IndependentValuePath="Y" 
+  				ItemsSource="{Binding}"/>
+  		</chartingToolkit:Chart>
+  		<data:DataGrid ItemsSource="{Binding Collection, Mode=OneWay}"/>
+  	</Blacklight_Controls:DragDockPanelHost>
+	</StackPanel>
+</UserControl>

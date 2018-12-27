@@ -1,0 +1,15 @@
+C:\Bart\BI Book\Chapter11\Projects\Dashboard\CompositeDashboard\CompositeDashboard.Web\bin\CompositeDashboard.Web.dll
+C:\Bart\BI Book\Chapter11\Projects\Dashboard\CompositeDashboard\CompositeDashboard.Web\bin\CompositeDashboard.Web.pdb
+C:\Bart\BI Book\Chapter11\Projects\Dashboard\CompositeDashboard\CompositeDashboard.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Bart\BI Book\Chapter11\Projects\Dashboard\CompositeDashboard\CompositeDashboard.Web\obj\Debug\CompositeDashboard.Web.dll
+C:\Bart\BI Book\Chapter11\Projects\Dashboard\CompositeDashboard\CompositeDashboard.Web\obj\Debug\CompositeDashboard.Web.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter11\CompositeDashboard\CompositeDashboard.Web\bin\CompositeDashboard.Web.dll
+C:\Users\Bart\Desktop\BookCode\Chapter11\CompositeDashboard\CompositeDashboard.Web\bin\CompositeDashboard.Web.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter11\CompositeDashboard\CompositeDashboard.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\BookCode\Chapter11\CompositeDashboard\CompositeDashboard.Web\obj\Debug\CompositeDashboard.Web.dll
+C:\Users\Bart\Desktop\BookCode\Chapter11\CompositeDashboard\CompositeDashboard.Web\obj\Debug\CompositeDashboard.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\CompositeDashboard\CompositeDashboard.Web\bin\CompositeDashboard.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\CompositeDashboard\CompositeDashboard.Web\bin\CompositeDashboard.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\CompositeDashboard\CompositeDashboard.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\CompositeDashboard\CompositeDashboard.Web\obj\Debug\CompositeDashboard.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\CompositeDashboard\CompositeDashboard.Web\obj\Debug\CompositeDashboard.Web.pdb

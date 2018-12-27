@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendixB_BulletGraphInterfacing", "AppendixB_BulletGraphInterfacing\AppendixB_BulletGraphInterfacing.csproj", "{B35E05D9-B89F-42B5-9278-19EBE73AE56B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendixB_BulletGraphInterfacing.Web", "AppendixB_BulletGraphInterfacing.Web\AppendixB_BulletGraphInterfacing.Web.csproj", "{56A5B762-0A4C-4EC9-9456-C3B777F2D2E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35E05D9-B89F-42B5-9278-19EBE73AE56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35E05D9-B89F-42B5-9278-19EBE73AE56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35E05D9-B89F-42B5-9278-19EBE73AE56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35E05D9-B89F-42B5-9278-19EBE73AE56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A5B762-0A4C-4EC9-9456-C3B777F2D2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A5B762-0A4C-4EC9-9456-C3B777F2D2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A5B762-0A4C-4EC9-9456-C3B777F2D2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A5B762-0A4C-4EC9-9456-C3B777F2D2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

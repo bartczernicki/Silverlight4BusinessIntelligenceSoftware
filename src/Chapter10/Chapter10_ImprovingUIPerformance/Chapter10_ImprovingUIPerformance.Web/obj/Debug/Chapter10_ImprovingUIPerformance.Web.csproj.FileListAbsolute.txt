@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance.Web\bin\Chapter10_ImprovingUIPerformance.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance.Web\bin\Chapter10_ImprovingUIPerformance.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance.Web\obj\Debug\Chapter10_ImprovingUIPerformance.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance.Web\obj\Debug\Chapter10_ImprovingUIPerformance.Web.pdb

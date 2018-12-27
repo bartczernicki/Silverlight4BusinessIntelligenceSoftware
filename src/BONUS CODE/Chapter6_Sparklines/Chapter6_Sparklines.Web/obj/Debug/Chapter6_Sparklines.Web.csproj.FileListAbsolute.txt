@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_Sparklines\Chapter6_Sparklines.Web\bin\Chapter6_Sparklines.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_Sparklines\Chapter6_Sparklines.Web\bin\Chapter6_Sparklines.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_Sparklines\Chapter6_Sparklines.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_Sparklines\Chapter6_Sparklines.Web\obj\Debug\Chapter6_Sparklines.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter6_Sparklines\Chapter6_Sparklines.Web\obj\Debug\Chapter6_Sparklines.Web.pdb

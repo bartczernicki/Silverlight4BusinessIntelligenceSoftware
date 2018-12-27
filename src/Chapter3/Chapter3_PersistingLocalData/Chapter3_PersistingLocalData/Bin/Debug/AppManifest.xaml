@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Chapter3_PersistingLocalData" EntryPointType="Chapter3_PersistingLocalData.App" RuntimeVersion="4.0.50401.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Chapter3_PersistingLocalData" Source="Chapter3_PersistingLocalData.dll" />
+  </Deployment.Parts>
+</Deployment>

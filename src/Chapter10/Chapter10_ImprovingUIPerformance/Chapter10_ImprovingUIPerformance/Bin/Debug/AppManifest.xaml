@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Chapter10_ImprovingUIPerformance" EntryPointType="Chapter10_ImprovingUIPerformance.App" RuntimeVersion="4.0.50826.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Chapter10_ImprovingUIPerformance" Source="Chapter10_ImprovingUIPerformance.dll" />
+  </Deployment.Parts>
+</Deployment>

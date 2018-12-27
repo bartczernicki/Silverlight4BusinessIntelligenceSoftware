@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="Chapter3_WorkingWithBusinessData.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:dataInput="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data.Input"
+    xmlns:local="clr-namespace:Chapter3_WorkingWithBusinessData"
+    mc:Ignorable="d"
+    Height="300" Width="400">
+    <!-- User Control Resources -->
+    <UserControl.Resources>
+        <!-- BMIConverter resource -->
+        <local:BMIConverter x:Key="BMIConverter" />
+    </UserControl.Resources>
+
+
+    <StackPanel x:Name="LayoutRoot" Background="White">
+        <Button x:Name="btnGenerateData" Margin="0,0,0,10" Content="Generate Data" Click="btnGenerateData_Click"/>
+        <Button x:Name="btnPerformAnalysis" Content="Perform Analysis" Margin="0,0,0,10" Click="btnPerformAnalysis_Click"/>
+        <StackPanel Height="200">
+            <StackPanel Height="25" Orientation="Horizontal">
+                <dataInput:Label Content="BMI Minimum:" Width="150" HorizontalAlignment="Right"/>
+                <dataInput:Label x:Name="bmiMinimum" HorizontalAlignment="Right"
+Content="{Binding Converter={StaticResource BMIConverter }, ConverterParameter=MIN, Mode=OneWay}"
+Width="50" Margin="5,0,0,0"/>
+            </StackPanel>
+            <StackPanel Height="25" Orientation="Horizontal">
+                <dataInput:Label HorizontalAlignment="Right" Width="150" Content="BMI Maximum:"/>
+                <dataInput:Label x:Name="bmiMaximum" HorizontalAlignment="Right"
+Content="{Binding Converter={StaticResource BMIConverter }, ConverterParameter=MAX, Mode=OneWay}"
+Width="50" Margin="5,0,0,0"/>
+            </StackPanel>
+            <StackPanel Height="25" Orientation="Horizontal">
+                <dataInput:Label HorizontalAlignment="Right" Width="150" Content="BMI Average:"/>
+                <dataInput:Label x:Name="bmiAverage" HorizontalAlignment="Right"
+Content="{Binding Converter={StaticResource BMIConverter }, ConverterParameter=AVG, Mode=OneWay}"
+Width="50" Margin="5,0,0,0"/>
+            </StackPanel>
+            <StackPanel Height="25" Orientation="Horizontal">
+                <dataInput:Label HorizontalAlignment="Right" Width="150" Content="Count with obese BMI:"/>
+                <dataInput:Label x:Name="bmiObeseCount" HorizontalAlignment="Right"
+Content="{Binding Converter={StaticResource BMIConverter }, ConverterParameter=COUNT;OBESE, Mode=OneWay}"
+Width="50" Margin="5,0,0,0"/>
+            </StackPanel>
+            <StackPanel Height="25" Orientation="Horizontal">
+                <dataInput:Label HorizontalAlignment="Right" Width="150" Content="Peformed Analysis In:" FontWeight="Bold"/>
+                <dataInput:Label x:Name="performedAnalysisIn" HorizontalAlignment="Right" 
+Width="50" Content="0" Margin="5,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</UserControl>
+

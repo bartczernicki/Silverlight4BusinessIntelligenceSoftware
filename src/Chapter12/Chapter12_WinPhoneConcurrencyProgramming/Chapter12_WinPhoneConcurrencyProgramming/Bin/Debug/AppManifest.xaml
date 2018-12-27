@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Chapter12_WinPhoneConcurrencyProgramming" EntryPointType="Chapter12_WinPhoneConcurrencyProgramming.App" RuntimeVersion="3.0.40624.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Chapter12_WinPhoneConcurrencyProgramming" Source="Chapter12_WinPhoneConcurrencyProgramming.dll" />
+  </Deployment.Parts>
+</Deployment>

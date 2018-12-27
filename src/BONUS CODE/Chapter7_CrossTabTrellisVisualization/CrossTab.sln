@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossTab", "CrossTab\CrossTab.csproj", "{23105721-BC91-4FC3-9A58-C2DEE215695D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossTab.Web", "CrossTab.Web\CrossTab.Web.csproj", "{267EF69A-83C8-44A3-9ABE-055BB6F95DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23105721-BC91-4FC3-9A58-C2DEE215695D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23105721-BC91-4FC3-9A58-C2DEE215695D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23105721-BC91-4FC3-9A58-C2DEE215695D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23105721-BC91-4FC3-9A58-C2DEE215695D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267EF69A-83C8-44A3-9ABE-055BB6F95DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267EF69A-83C8-44A3-9ABE-055BB6F95DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267EF69A-83C8-44A3-9ABE-055BB6F95DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267EF69A-83C8-44A3-9ABE-055BB6F95DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

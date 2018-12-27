@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter14\Chapter14_ConsumingAnExistingPivotViewerCollection.Web\bin\Chapter14_ConsumingAnExistingPivotViewerCollection.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter14\Chapter14_ConsumingAnExistingPivotViewerCollection.Web\bin\Chapter14_ConsumingAnExistingPivotViewerCollection.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter14\Chapter14_ConsumingAnExistingPivotViewerCollection.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter14\Chapter14_ConsumingAnExistingPivotViewerCollection.Web\obj\Debug\Chapter14_ConsumingAnExistingPivotViewerCollection.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter14\Chapter14_ConsumingAnExistingPivotViewerCollection.Web\obj\Debug\Chapter14_ConsumingAnExistingPivotViewerCollection.Web.pdb

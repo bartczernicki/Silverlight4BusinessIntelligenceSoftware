@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Chapter10_GPUAcceleration.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+    mc:Ignorable="d"
+    Width="640" Height="500">
+    <StackPanel x:Name="LayoutRoot" Loaded="LayoutRoot_Loaded" Orientation="Vertical">
+        <chartingToolkit:Chart Title="Actual Sales" Height="250" CacheMode="BitmapCache">
+            <chartingToolkit:ColumnSeries Title="Sales Actual" DependentValuePath="SalesActual" 
+            IndependentValuePath="CompanyName" ItemsSource="{Binding}"/>
+        </chartingToolkit:Chart>
+        <chartingToolkit:Chart Title="Sales Actual vs. Forecast" Height="250" CacheMode="BitmapCache">
+            <chartingToolkit:ColumnSeries Title="Sales Actual" DependentValuePath="SalesActual" 
+        IndependentValuePath="CompanyName" ItemsSource="{Binding}"
+        AnimationSequence="FirstToLast"/>
+            <chartingToolkit:LineSeries Title="Sales Forecast"
+            DependentValuePath="SalesForecast" 
+        IndependentValuePath="CompanyName" ItemsSource="{Binding}"
+        AnimationSequence="FirstToLast"/>
+        </chartingToolkit:Chart>
+
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,63 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:SilverlightBulletGraph="clr-namespace:SilverlightBulletGraph;assembly=SilverlightBulletGraph" 
+    x:Class="AppendixB_BulletGraphInterfacing.MainPage"
+    mc:Ignorable="d"
+    Height="500" Width="600">
+    
+    <UserControl.Resources>
+        <Storyboard x:Name="SbAnimateBulletGraph">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(BulletGraph.ComparativedMeasure)" Storyboard.TargetName="bulletGraph">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="50"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(BulletGraph.FeaturedMeasure)" Storyboard.TargetName="bulletGraph">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="75"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(BulletGraph.QualitativeRangeBad)" Storyboard.TargetName="bulletGraph">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="45"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(BulletGraph.QualitativeRangeSatisfactory)" Storyboard.TargetName="bulletGraph">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="60"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="320*" />
+            <RowDefinition Height="180*" />
+        </Grid.RowDefinitions>
+        <TextBlock FontSize="24" HorizontalAlignment="Right" Margin="0,36,216,0" Text="Animating a Bullet Graph" TextWrapping="Wrap" VerticalAlignment="Top" />
+        <SilverlightBulletGraph:BulletGraph x:Name="bulletGraph" Margin="80,77,70,0" VerticalAlignment="Top" Width="450" Height="50"/>
+        <Button Content="Start Animation" HorizontalAlignment="Right" Margin="0,133,407,0" VerticalAlignment="Top" Width="113" Height="33" Cursor="Hand" Click="Button_Click"/>
+        
+        
+        <TextBlock TextWrapping="Wrap" Text="Element Data Binding" VerticalAlignment="Top" Margin="0,188,258,0" HorizontalAlignment="Right" d:LayoutOverrides="HorizontalAlignment" FontSize="24"/>
+        <SilverlightBulletGraph:BulletGraph x:Name="bulletTest" Margin="80,0,95,49" ScaleMaximum="100" TextLabel="Some Measure" UnitLabel="Count" 
+			QualitativeRangeBadColor="#FFC02E2E" QualitativeRangeGoodColor="#FF6AB16F" 
+			QualitativeRangeSatisfactoryColor="#FFD9C81D" 
+            QualitativeRangeBad="{Binding Value, ElementName=slider_Copy1, Mode=TwoWay}" 
+            QualitativeRangeSatisfactory="{Binding Value, ElementName=slider_Copy2, Mode=TwoWay}" 
+            FeaturedMeasure="{Binding Value, ElementName=slider, Mode=TwoWay}" 
+            ComparativedMeasure="{Binding Value, ElementName=slider_Copy, Mode=TwoWay}" 
+            Height="50" VerticalAlignment="Bottom" />
+
+        <Slider x:Name="slider" HorizontalAlignment="Right" Margin="0,0,180,17" VerticalAlignment="Bottom" Width="150" Maximum="100" Value="50" Cursor="Hand" />
+        <TextBlock HorizontalAlignment="Right" TextWrapping="Wrap" Text="Featured Measure:" VerticalAlignment="Bottom" Margin="0,0,354,19" />
+        <TextBlock TextWrapping="Wrap" Text="Comparative Measure:" VerticalAlignment="Bottom" Margin="0,0,354,175" HorizontalAlignment="Right" d:LayoutOverrides="HorizontalAlignment" Grid.RowSpan="2" />
+        <TextBlock TextWrapping="Wrap" Text="Qualitative Range Bad:" VerticalAlignment="Bottom" Margin="0,0,351,155" d:LayoutOverrides="HorizontalAlignment" HorizontalAlignment="Right" Grid.Row="1" />
+        <TextBlock TextWrapping="Wrap" Text="Qualitative Range Satisfactory:" VerticalAlignment="Bottom" Margin="0,0,351,135" HorizontalAlignment="Right" Grid.Row="1" />
+        <Slider x:Name="slider_Copy" HorizontalAlignment="Right" Margin="0,0,180,175" VerticalAlignment="Bottom" Width="150" Maximum="100" Value="50" Cursor="Hand" Grid.RowSpan="2" />
+        <Slider x:Name="slider_Copy1" HorizontalAlignment="Right" Margin="0,0,180,153" VerticalAlignment="Bottom" Width="150" Maximum="100" Value="25" Cursor="Hand" Grid.Row="1" />
+        <Slider x:Name="slider_Copy2" HorizontalAlignment="Right" Margin="0,0,180,131" VerticalAlignment="Bottom" Width="150" Maximum="100" Value="50" Cursor="Hand" Grid.Row="1" />
+
+
+    </Grid>
+</UserControl>

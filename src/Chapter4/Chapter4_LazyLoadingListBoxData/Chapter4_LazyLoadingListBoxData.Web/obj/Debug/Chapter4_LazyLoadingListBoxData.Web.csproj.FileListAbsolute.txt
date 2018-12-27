@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData.Web\bin\Chapter4_LazyLoadingListBoxData.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData.Web\bin\Chapter4_LazyLoadingListBoxData.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData.Web\obj\Debug\Chapter4_LazyLoadingListBoxData.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter4\Chapter4_LazyLoadingListBoxData\Chapter4_LazyLoadingListBoxData.Web\obj\Debug\Chapter4_LazyLoadingListBoxData.Web.pdb

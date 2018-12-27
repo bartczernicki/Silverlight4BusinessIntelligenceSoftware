@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter10_ImprovingUIPerformance", "Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance.csproj", "{3E32983F-EF2F-4651-A78C-D896B600E435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter10_ImprovingUIPerformance.Web", "Chapter10_ImprovingUIPerformance.Web\Chapter10_ImprovingUIPerformance.Web.csproj", "{FDD13C31-D034-4EC2-A722-7928B665D6A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E32983F-EF2F-4651-A78C-D896B600E435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E32983F-EF2F-4651-A78C-D896B600E435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E32983F-EF2F-4651-A78C-D896B600E435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E32983F-EF2F-4651-A78C-D896B600E435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD13C31-D034-4EC2-A722-7928B665D6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD13C31-D034-4EC2-A722-7928B665D6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD13C31-D034-4EC2-A722-7928B665D6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD13C31-D034-4EC2-A722-7928B665D6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

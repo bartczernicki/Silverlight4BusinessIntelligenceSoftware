@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter6_WordSizedBarCharts", "Chapter6_WordSizedBarCharts\Chapter6_WordSizedBarCharts.csproj", "{190AD7EC-47D1-4EDA-AEBF-4D37A2A81A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter6_WordSizedBarCharts.Web", "Chapter6_WordSizedBarCharts.Web\Chapter6_WordSizedBarCharts.Web.csproj", "{2E9A739C-2071-4C91-8F91-DD719BD6BFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190AD7EC-47D1-4EDA-AEBF-4D37A2A81A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190AD7EC-47D1-4EDA-AEBF-4D37A2A81A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190AD7EC-47D1-4EDA-AEBF-4D37A2A81A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190AD7EC-47D1-4EDA-AEBF-4D37A2A81A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9A739C-2071-4C91-8F91-DD719BD6BFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9A739C-2071-4C91-8F91-DD719BD6BFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9A739C-2071-4C91-8F91-DD719BD6BFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9A739C-2071-4C91-8F91-DD719BD6BFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

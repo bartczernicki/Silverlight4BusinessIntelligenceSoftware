@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="SilverlightBulletGraph.BulletGraph"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="50" d:DesignWidth="450"
+    SizeChanged="UserControl_SizeChanged">
+
+    <Grid x:Name="LayoutRoot">
+
+        <!-- Row Definitions -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Column Deifintions -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Text Label -->
+        <TextBlock x:Name="textLabel" Margin="0,0,5,0" TextWrapping="Wrap" Text="Label for BG"
+                d:LayoutOverrides="Width, Height"
+                VerticalAlignment="Center" FontSize="12.5" HorizontalAlignment="Right"/>
+
+        <!-- Unit Label -->
+        <TextBlock x:Name="unitLabel" HorizontalAlignment="Right" TextWrapping="Wrap" Text="Unit Label"
+                VerticalAlignment="Top" Grid.Row="1" FontSize="10.667" Margin="0,0,5,0"/>
+
+        <!-- Grid that will host the qualitative components -->
+        <Grid x:Name="qualitativeComponentsGrid" Grid.Row="0" HorizontalAlignment="Stretch" 
+                VerticalAlignment="Stretch" Grid.Column="1">
+
+            <!-- Qualitative Good Range -->
+            <!-- Value will always be 100% -->
+            <ProgressBar x:Name="qualitativeRangeGood" Value="100" Foreground="WhiteSmoke" 
+                Style="{StaticResource QualitativeRangeProgressBar}" />
+
+            <!-- Qualitative Satisfactory Range -->
+            <ProgressBar x:Name="qualitativeRangeSatisfactory" Foreground="LightGray" Value="50" 
+                Style="{StaticResource QualitativeRangeProgressBar}" />
+
+            <!-- Qualitative Bad Range -->
+            <ProgressBar x:Name="qualitativeRangeBad" Foreground="Gray" Value="25"
+                Style="{StaticResource QualitativeRangeProgressBar}" />
+
+            <!-- Featured Measure -->
+            <ProgressBar x:Name="featuredMeasure" HorizontalAlignment="Stretch" Foreground="Black"
+            RenderTransformOrigin="0.5,0.5" Value="65" Style="{StaticResource QualitativeRangeProgressBar}">
+                <!-- The RenderTransform scales the Y-axis dynamically, 
+                based on the container dimensions -->
+                <ProgressBar.RenderTransform>
+                    <CompositeTransform ScaleY="0.4"/>
+                </ProgressBar.RenderTransform>
+            </ProgressBar>
+
+            <!-- Comparative Measure -->
+            <Rectangle x:Name="comparativeMeasure" Fill="Black" RenderTransformOrigin="0,0.5" StrokeThickness="0">
+                <!-- The RenderTransform scales the Y and X axes dynamically, 
+                based on the container dimensions -->
+                <Rectangle.RenderTransform>
+                    <CompositeTransform ScaleY="0.6" ScaleX="0.01" TranslateX="50"/>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <!-- End of qualitativeComponentsGrid Grid -->
+        </Grid>
+        
+        <!-- Grid that will host the quantitative scale -->
+        <Grid x:Name="quantitativeScaleGrid" Margin="0,0,0,0" Grid.Row="1" Grid.Column="1" 
+              Background="{x:Null}" Grid.ColumnSpan="2">
+        </Grid>
+    
+    <!-- End of LayoutRoot -->
+    </Grid>
+</UserControl>

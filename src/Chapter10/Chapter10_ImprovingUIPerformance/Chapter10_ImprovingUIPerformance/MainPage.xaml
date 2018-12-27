@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="Chapter10_ImprovingUIPerformance.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <StackPanel x:Name="LayoutRoot" Loaded="LayoutRoot_Loaded">
+        <StackPanel Height="Auto" Margin="10,0,0,0" Width="Auto" Orientation="Vertical">
+            <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,5,5" 
+                           Width="Auto" Text="Slider with little work" TextWrapping="Wrap"/>
+            <StackPanel Height="Auto" Width="Auto" HorizontalAlignment="Left" 
+                            VerticalAlignment="Stretch" Orientation="Horizontal">
+                <Slider Cursor="Hand" Height="18" x:Name="SliderSimple" 
+                            Width="175" Margin="0,0,10,0" ValueChanged="SliderSimple_ValueChanged"/>
+                <TextBlock Height="Auto" Width="Auto" Text="Slider Value:" TextWrapping="Wrap" Margin="0,0,10,0"/>
+                <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" x:Name="txtSliderSimpleValue"/>
+            </StackPanel>
+            <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,0,5" Width="Auto" Text="Number of times event fired:" TextWrapping="Wrap"/>
+            <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" HorizontalAlignment="Left" x:Name="txtSliderSimpleNumberEventFires"/>
+        </StackPanel>
+
+        <!-- Single Threaded Section -->
+        <StackPanel Height="Auto" Width="Auto" Orientation="Vertical" Margin="10,10,0,5">
+            <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,5,5" Width="Auto" Text="Slider with 150ms delay (single threaded)" TextWrapping="Wrap"/>
+            <StackPanel Height="Auto" Width="Auto" Orientation="Horizontal">
+                <Slider Cursor="Hand" Height="18" x:Name="SliderSingleThreaded" Width="175" Margin="0,0,10,0" ValueChanged="SliderSingleThreaded_ValueChanged"/>
+                <TextBlock Height="Auto" Width="Auto" Text="Slider Value:" TextWrapping="Wrap" Margin="0,0,10,0"/>
+                <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" x:Name="txtSliderSingleThreadedValue"/>
+            </StackPanel>
+            <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,0,5" Width="Auto" Text="Number of times event fired:" TextWrapping="Wrap"/>
+            <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" HorizontalAlignment="Left" x:Name="txtSliderSingleThreadNumberEventFires"/>
+        </StackPanel>
+
+        <!-- Multi Threaded Section -->
+        <StackPanel Height="Auto" Width="Auto" Orientation="Vertical" Margin="10,10,0,5">
+            <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,5,5" Width="Auto" Text="Slider with 150ms delay (multi threaded)" TextWrapping="Wrap"/>
+            <StackPanel Height="Auto" Width="Auto" HorizontalAlignment="Stretch" Orientation="Horizontal">
+                <Slider Cursor="Hand" Height="18" x:Name="SliderMultiThreaded" Width="175" HorizontalAlignment="Left" Margin="0,0,10,0" ValueChanged="SliderMultiThreaded_ValueChanged"/>
+                <TextBlock Height="Auto" Width="Auto" Text="Slider Value:" TextWrapping="Wrap" Margin="0,0,10,0"/>
+                <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" x:Name="txtSliderMultiThreadedValue"/>
+            </StackPanel>
+            <TextBlock Height="Auto" HorizontalAlignment="Left" Margin="0,0,0,5" Width="Auto" Text="Number of times event fired:" TextWrapping="Wrap"/>
+            <TextBlock Height="Auto" Width="Auto" Text="0" TextWrapping="Wrap" HorizontalAlignment="Left" x:Name="txtSliderMultiThreadNumberEventFires"/>
+        </StackPanel>
+
+
+    </StackPanel>
+</UserControl>

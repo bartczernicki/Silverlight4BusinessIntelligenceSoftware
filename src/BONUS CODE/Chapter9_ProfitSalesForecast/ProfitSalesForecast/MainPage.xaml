@@ -1,0 +1,35 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" xmlns:local="clr-namespace:ProfitSalesForecast" x:Class="ProfitSalesForecast.MainPage"
+    d:DesignWidth="640" d:DesignHeight="480" Height="1000" Width="1000" Loaded="UserControl_Loaded">
+	<UserControl.Resources>
+		<DataTemplate x:Key="ItemTemplate">
+			<StackPanel>
+				<TextBlock Text="{Binding PropertyName}"/>
+				<TextBlock Text="{Binding Value}"/>
+			</StackPanel>
+		</DataTemplate>
+	</UserControl.Resources>
+	<StackPanel x:Name="LayoutRoot" Width="1000" Height="1000" Orientation="Horizontal" DataContext="{Binding Source={StaticResource SampleDataSource}}">
+		<StackPanel Height="1000" Width="300" HorizontalAlignment="Left">
+			<StackPanel x:Name="Sales" VerticalAlignment="Top">
+				<local:ForecastModel x:Name="USASales" Height="150" PositionType="Top" Title="USA Sales"/>
+				<local:ForecastModel x:Name="MexicoSales" Height="150" PositionType="Middle" Title="Mexico Sales"/>
+				<local:ForecastModel x:Name="CanadaSales" Height="150" PositionType="Bottom" Title="Canada Sales"/>
+			</StackPanel>
+			<StackPanel x:Name="Costs" VerticalAlignment="Top" Margin="0">
+				<local:ForecastModel x:Name="SalaryCosts" Height="150" PositionType="Top" Title="Salary Costs"/>
+				<local:ForecastModel x:Name="SalesCosts" Height="150" PositionType="Bottom" Title="Sales Costs"/>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel Height="1000" VerticalAlignment="Top">
+			<local:ForecastModel x:Name="TotalRev" Height="150" PositionType="Top" Width="350" Margin="0,285,0,0" Title="Total Revenue" IsReadOnly="True"/>
+			<local:ForecastModel x:Name="TotalCosts" Height="150" PositionType="Bottom" Width="350" Margin="0,25,0,0" Title="Total Costs" IsReadOnly="True"/>
+		</StackPanel>
+		<StackPanel Height="1000" VerticalAlignment="Top" Width="300" HorizontalAlignment="Left" Margin="0">
+			<local:ForecastModel x:Name="Final" Height="150" PositionType="Bottom" Width="350" Margin="0,375,0,0" Title="Net Income" IsReadOnly="True"/>
+		</StackPanel>
+	</StackPanel>
+</UserControl>

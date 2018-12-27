@@ -1,0 +1,20 @@
+C:\Bart\BI Book\Chapter8\ProfitSalesForecast\ProfitSalesForecast.Web\bin\ProfitSalesForecast.Web.dll
+C:\Bart\BI Book\Chapter8\ProfitSalesForecast\ProfitSalesForecast.Web\bin\ProfitSalesForecast.Web.pdb
+C:\Bart\BI Book\Chapter8\ProfitSalesForecast\ProfitSalesForecast.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Bart\BI Book\Chapter8\ProfitSalesForecast\ProfitSalesForecast.Web\obj\Debug\ProfitSalesForecast.Web.dll
+C:\Bart\BI Book\Chapter8\ProfitSalesForecast\ProfitSalesForecast.Web\obj\Debug\ProfitSalesForecast.Web.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\bin\ProfitSalesForecast.Web.dll
+C:\Users\Bart\Desktop\BookCode\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\bin\ProfitSalesForecast.Web.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\BookCode\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\obj\Debug\ProfitSalesForecast.Web.dll
+C:\Users\Bart\Desktop\BookCode\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\obj\Debug\ProfitSalesForecast.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\bin\ProfitSalesForecast.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\bin\ProfitSalesForecast.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\obj\Debug\ProfitSalesForecast.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter9\ProfitSalesForeCast\ProfitSalesForecast.Web\obj\Debug\ProfitSalesForecast.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter9_ProfitSalesForecast\ProfitSalesForecast.Web\bin\ProfitSalesForecast.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter9_ProfitSalesForecast\ProfitSalesForecast.Web\bin\ProfitSalesForecast.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter9_ProfitSalesForecast\ProfitSalesForecast.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter9_ProfitSalesForecast\ProfitSalesForecast.Web\obj\Debug\ProfitSalesForecast.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter9_ProfitSalesForecast\ProfitSalesForecast.Web\obj\Debug\ProfitSalesForecast.Web.pdb

@@ -1,0 +1,12 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\Bin\Debug\Chapter10_ImprovingUIPerformance.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\Bin\Debug\Chapter10_ImprovingUIPerformance.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\Bin\Debug\AppManifest.xaml
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\Bin\Debug\Chapter10_ImprovingUIPerformance.xap
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\Bin\Debug\Chapter10_ImprovingUIPerformanceTestPage.html
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\obj\Debug\App.g.i.cs
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\obj\Debug\MainPage.g.i.cs
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\obj\Debug\Chapter10_ImprovingUIPerformance.g.resources
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\obj\Debug\Chapter10_ImprovingUIPerformance.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\obj\Debug\Chapter10_ImprovingUIPerformance.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter10\Chapter10_ImprovingUIPerformance\Chapter10_ImprovingUIPerformance\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,229 @@
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\CrossTab.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\CrossTab.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\AppManifest.xaml
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\CrossTab.xap
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\TestPage.html
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.Data.DataForm.Toolkit.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Data.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Data.xml
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.Data.DataForm.Toolkit.xml
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.xml
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\obj\Debug\App.g.cs
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\obj\Debug\MainPage.g.cs
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\obj\Debug\CrossTab.g.resources
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\obj\Debug\CrossTab.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\obj\Debug\CrossTab.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab\obj\Debug\XapCacheFile.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\CrossTab.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\CrossTab.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\AppManifest.xaml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\CrossTab.xap
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\TestPage.html
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.Data.DataForm.Toolkit.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.Data.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.Data.Input.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Data.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.Data.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.Data.DataForm.Toolkit.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.Data.Input.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Data.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\System.Windows.Controls.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\de\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\es\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\fr\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\it\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ja\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ko\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ru\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\de\System.Windows.Controls.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\es\System.Windows.Controls.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\fr\System.Windows.Controls.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\it\System.Windows.Controls.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ja\System.Windows.Controls.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\ko\System.Windows.Controls.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\obj\Debug\App.g.i.cs
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\obj\Debug\MainPage.g.i.cs
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\obj\Debug\CrossTab.g.resources
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\obj\Debug\CrossTab.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\obj\Debug\CrossTab.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab\obj\Debug\XapCacheFile.xml

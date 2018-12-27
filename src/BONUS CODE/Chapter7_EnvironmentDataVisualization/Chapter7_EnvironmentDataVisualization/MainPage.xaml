@@ -1,0 +1,100 @@
+﻿<UserControl x:Class="Chapter7_EnvironmentDataVisualization.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+	xmlns:visualizationToolkit="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+    xmlns:chartingPrimitivesToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting.Primitives;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+Width="640" Height="480">
+
+    <UserControl.Resources>
+
+    </UserControl.Resources>
+
+    <Canvas x:Name="LayoutRoot" Loaded="LayoutRoot_Loaded">
+        <Canvas Height="400" Width="600" Canvas.Left="-9" Canvas.Top="50">
+            <Canvas.Projection>
+                <PlaneProjection RotationX="-23.406" RotationY="-31.511" RotationZ="11.984"/>
+            </Canvas.Projection>
+            <Image x:Name="NoteBookBackground" Height="392" Width="400" Canvas.Left="84" Canvas.Top="8" Source="tutimg-1152465309[1].jpg" Stretch="Fill"/>
+            <TextBlock TextAlignment="Center" x:Name="Title" Canvas.Left="120" Canvas.Top="44" Text="Items Purchased for School Year 2009" TextWrapping="Wrap" FontSize="26.667" Width="313" FontFamily="Fonts/Fonts.zip#Forte"/>
+
+            <chartingToolkit:Chart x:Name="ChartVisual" Title="" Canvas.Left="100" Canvas.Top="135" Height="200" Width="355">
+                <chartingToolkit:Chart.Template>
+                    <!-- Hide the border -->
+                    <ControlTemplate TargetType="chartingToolkit:Chart">
+                        <chartingPrimitivesToolkit:EdgePanel x:Name="ChartArea">
+                            <Grid Canvas.ZIndex="-1" />
+                        </chartingPrimitivesToolkit:EdgePanel>
+                    </ControlTemplate>
+                </chartingToolkit:Chart.Template>
+
+                <chartingToolkit:BarSeries Title="" IndependentValueBinding="{Binding Key}" DependentValueBinding="{Binding Value}" Margin="0">
+                    <chartingToolkit:BarSeries.DependentRangeAxis>
+                        <chartingToolkit:LinearAxis Minimum="0" Maximum=".75" Interval="0.25" Orientation="X">
+                            <chartingToolkit:LinearAxis.AxisLabelStyle>
+                                <Style TargetType="chartingToolkit:AxisLabel">
+                                    <Setter Property="StringFormat" Value="{}{0:p0}"/>
+                                    <Setter Property="FontFamily" Value="Fonts/Fonts.zip#Forte"/>
+                                    <Setter Property="FontSize" Value="15"/>
+                                </Style>
+                            </chartingToolkit:LinearAxis.AxisLabelStyle>
+                        </chartingToolkit:LinearAxis>
+                    </chartingToolkit:BarSeries.DependentRangeAxis>
+                    <chartingToolkit:BarSeries.IndependentAxis>
+                        <chartingToolkit:CategoryAxis Orientation="Y" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right">
+                            <chartingToolkit:CategoryAxis.AxisLabelStyle>
+                                <Style TargetType="chartingToolkit:AxisLabel">
+                                    <Setter Property="FontFamily" Value="Fonts/Fonts.zip#Forte"/>
+                                    <Setter Property="FontSize" Value="15"/>
+                                </Style>
+                            </chartingToolkit:CategoryAxis.AxisLabelStyle>
+                        </chartingToolkit:CategoryAxis>
+                    </chartingToolkit:BarSeries.IndependentAxis>
+                </chartingToolkit:BarSeries>
+            </chartingToolkit:Chart>
+        </Canvas>
+
+        <Grid x:Name="Pencil" Width="125" Height="534" RenderTransformOrigin="0.5,0.5" Canvas.Left="366" Canvas.Top="-121" d:LayoutOverrides="Width, HorizontalMargin">
+            <Grid.Projection>
+                <PlaneProjection RotationZ="-9.701" RotationY="29.619" RotationX="-21.297"/>
+            </Grid.Projection>
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="0.3" ScaleY="0.8"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Path Fill="#FFD5AA1A" Stretch="Fill" Stroke="#FFD5AA1A" Height="108.949" Margin="30.269,34.424,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.517245671168601,0.259607718595232" UseLayoutRounding="False" Data="M109.7518,56.197601 L109.85117,108.43151 L100.65594,108.449 L0.50334811,58.165012 L0.5,56.405441 z M104.49538,0.5 L113.69062,0.5 L113.69062,56.068001 L4.4386024,56.068001 L4.4386024,54.196117 z" HorizontalAlignment="Left" Width="114.191">
+                <Path.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90.109"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Path.RenderTransform>
+            </Path>
+            <Rectangle Stroke="#FF264788" Fill="#FF264788" HorizontalAlignment="Left" Margin="2,124,0,107" Width="58"/>
+            <Ellipse Stroke="#FF264788" HorizontalAlignment="Left" Margin="2,87,0,0" Width="58" Height="78" VerticalAlignment="Top" Fill="#FF264788"/>
+            <Rectangle Stroke="#FF163062" Fill="#FF264788" Margin="64,124,0,107" HorizontalAlignment="Left" Width="58"/>
+            <Ellipse Stroke="#FF264788" Margin="64,87,0,0" Height="78" VerticalAlignment="Top" Fill="#FF264788" HorizontalAlignment="Left" Width="58"/>
+            <Rectangle Stroke="#FF163062" Fill="#FF163062" HorizontalAlignment="Left" Margin="30,124,0,106" Width="58" Height="304"/>
+            <Ellipse Stroke="#FF163062" HorizontalAlignment="Left" Margin="30,87,0,0" Width="58" Height="78" VerticalAlignment="Top" Fill="#FF163062"/>
+            <Path Fill="Black" Stretch="Fill" Stroke="Black" HorizontalAlignment="Left" Margin="45.77,17.589,0,0" Width="47" RenderTransformOrigin="0.591048690587586,0.241302740542046" UseLayoutRounding="False" Data="M99.334007,53.393372 L99.432205,105.01038 L0.5033493,55.340961 L0.5,53.58139 z M99.233383,0.5 L99.333725,53.24395 L4.4386168,53.24395 L4.4386168,51.372066 z" Height="49.476" VerticalAlignment="Top">
+                <Path.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90.109"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Path.RenderTransform>
+            </Path>
+        </Grid>
+    </Canvas>
+</UserControl>

@@ -1,0 +1,40 @@
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\AppManifest.xaml
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.dll
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.pdb
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.xap
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\TestPage.html
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\ResolveAssemblyReference.cache
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\App.g.cs
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\MainPage.g.cs
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.g.resources
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.dll
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.pdb
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\XapCacheFile.xml
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Bart\BI Book\Chapter11\Projects\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.dll
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\AppManifest.xaml
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.xap
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\TestPage.html
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\App.g.cs
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\MainPage.g.cs
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.g.resources
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.dll
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\XapCacheFile.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\AppManifest.xaml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\LocalCommunicationConsumer.xap
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\Bin\Debug\TestPage.html
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\App.g.i.cs
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\MainPage.g.i.cs
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.g.resources
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\LocalCommunicationConsumer.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter11\SilverlightLocalCommuniation\LocalCommunication\LocalCommunicationConsumer\obj\Debug\XapCacheFile.xml

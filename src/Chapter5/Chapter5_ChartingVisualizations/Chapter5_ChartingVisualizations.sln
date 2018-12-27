@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter5_ChartingVisualizations", "Chapter5_ChartingVisualizations\Chapter5_ChartingVisualizations.csproj", "{842FB507-9790-4238-A0FE-C5907DB85BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter5_ChartingVisualizations.Web", "Chapter5_ChartingVisualizations.Web\Chapter5_ChartingVisualizations.Web.csproj", "{E14FA2BC-63DD-403C-A034-60BE13A74D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842FB507-9790-4238-A0FE-C5907DB85BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842FB507-9790-4238-A0FE-C5907DB85BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842FB507-9790-4238-A0FE-C5907DB85BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842FB507-9790-4238-A0FE-C5907DB85BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14FA2BC-63DD-403C-A034-60BE13A74D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14FA2BC-63DD-403C-A034-60BE13A74D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14FA2BC-63DD-403C-A034-60BE13A74D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14FA2BC-63DD-403C-A034-60BE13A74D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

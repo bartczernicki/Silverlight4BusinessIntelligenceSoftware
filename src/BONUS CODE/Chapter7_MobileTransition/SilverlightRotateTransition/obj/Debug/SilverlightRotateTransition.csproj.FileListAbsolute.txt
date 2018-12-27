@@ -1,0 +1,109 @@
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\obj\Debug\App.g.cs
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\AppManifest.xaml
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.pdb
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.xap
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\TestPage.html
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\System.Windows.Ria.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.xml
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\System.Windows.Ria.xml
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\de\System.ComponentModel.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\es\System.ComponentModel.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\fr\System.ComponentModel.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\it\System.ComponentModel.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\ja\System.ComponentModel.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\ko\System.ComponentModel.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\zh-Hans\System.ComponentModel.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\Bin\Debug\zh-Hant\System.ComponentModel.resources.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\obj\Debug\MainPage.g.cs
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.g.resources
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.dll
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.pdb
+C:\Users\Bart\Downloads\SilverlightRotateTransition\SilverlightRotateTransition\SilverlightRotateTransition\obj\Debug\XapCacheFile.xml
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\AppManifest.xaml
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.pdb
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.xap
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\TestPage.html
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.xml
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\System.Windows.Ria.xml
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\de\System.ComponentModel.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\es\System.ComponentModel.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\fr\System.ComponentModel.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\it\System.ComponentModel.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\ja\System.ComponentModel.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\ko\System.ComponentModel.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\zh-Hans\System.ComponentModel.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\Bin\Debug\zh-Hant\System.ComponentModel.resources.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\obj\Debug\ResolveAssemblyReference.cache
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\obj\Debug\App.g.cs
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\obj\Debug\MainPage.g.cs
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.g.resources
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.dll
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.pdb
+C:\Bart\BI Book\Chapter6\ProjectsForFigures\Transition\SilverlightRotateTransition\obj\Debug\XapCacheFile.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\AppManifest.xaml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.xap
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\TestPage.html
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\System.Windows.Ria.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\de\System.ComponentModel.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\es\System.ComponentModel.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\fr\System.ComponentModel.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\it\System.ComponentModel.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\ja\System.ComponentModel.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\ko\System.ComponentModel.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\zh-Hans\System.ComponentModel.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\zh-Hant\System.ComponentModel.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\obj\Debug\App.g.cs
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\obj\Debug\MainPage.g.cs
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.g.resources
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\Transition\SilverlightRotateTransition\obj\Debug\XapCacheFile.xml
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\Bin\Debug\AppManifest.xaml
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\Bin\Debug\SilverlightRotateTransition.xap
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\Bin\Debug\TestPage.html
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\obj\Debug\App.g.cs
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\obj\Debug\MainPage.g.cs
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.g.resources
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\obj\Debug\SilverlightRotateTransition.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\BONUS CODE\Chapter7_MobileTransition\SilverlightRotateTransition\obj\Debug\XapCacheFile.xml

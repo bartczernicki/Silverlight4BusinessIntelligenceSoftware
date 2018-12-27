@@ -1,0 +1,5 @@
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter8\Chapter8_WorkingWithTheRatingControl\Chapter8_WorkingWithTheRatingControl.Web\bin\Chapter8_WorkingWithTheRatingControl.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter8\Chapter8_WorkingWithTheRatingControl\Chapter8_WorkingWithTheRatingControl.Web\bin\Chapter8_WorkingWithTheRatingControl.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter8\Chapter8_WorkingWithTheRatingControl\Chapter8_WorkingWithTheRatingControl.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter8\Chapter8_WorkingWithTheRatingControl\Chapter8_WorkingWithTheRatingControl.Web\obj\Debug\Chapter8_WorkingWithTheRatingControl.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3\Chapter8\Chapter8_WorkingWithTheRatingControl\Chapter8_WorkingWithTheRatingControl.Web\obj\Debug\Chapter8_WorkingWithTheRatingControl.Web.pdb

@@ -1,0 +1,15 @@
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab.Web\bin\CrossTab.Web.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab.Web\bin\CrossTab.Web.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab.Web\obj\Debug\CrossTab.Web.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab\CrossTab.Web\obj\Debug\CrossTab.Web.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\bin\CrossTab.Web.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\bin\CrossTab.Web.pdb
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\obj\Debug\CrossTab.Web.dll
+C:\Users\Bart\Desktop\BookCode\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\obj\Debug\CrossTab.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\bin\CrossTab.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\bin\CrossTab.Web.pdb
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\obj\Debug\CrossTab.Web.dll
+F:\Bart\Book_Rev2\Source Code\Version 3 Beta\Bonus Code\Chapter7\CrossTab (Trellis Visualization)\CrossTab.Web\obj\Debug\CrossTab.Web.pdb

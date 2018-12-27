@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightRotateTransition", "SilverlightRotateTransition\SilverlightRotateTransition.csproj", "{E5DE2003-A9E4-461C-964E-588FD57DBFB0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5BFCB950-E687-4ADA-8FB0-67857BD4BF1D} = {5BFCB950-E687-4ADA-8FB0-67857BD4BF1D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightRotateTransition.Web", "SilverlightRotateTransition.Web\SilverlightRotateTransition.Web.csproj", "{5BFCB950-E687-4ADA-8FB0-67857BD4BF1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DE2003-A9E4-461C-964E-588FD57DBFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DE2003-A9E4-461C-964E-588FD57DBFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DE2003-A9E4-461C-964E-588FD57DBFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DE2003-A9E4-461C-964E-588FD57DBFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFCB950-E687-4ADA-8FB0-67857BD4BF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFCB950-E687-4ADA-8FB0-67857BD4BF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFCB950-E687-4ADA-8FB0-67857BD4BF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFCB950-E687-4ADA-8FB0-67857BD4BF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

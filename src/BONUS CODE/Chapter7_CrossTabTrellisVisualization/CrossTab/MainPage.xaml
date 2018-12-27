@@ -1,0 +1,278 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+    xmlns:chartingPrimitivesToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting.Primitives;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+    mc:Ignorable="d" 
+    xmlns:data="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data" 
+    xmlns:visualizationToolkit="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit" 
+    x:Class="CrossTab.MainPage"
+    d:DesignWidth="640" d:DesignHeight="480">
+    <UserControl.Resources>
+        <!-- Override the default PolylineStyle width (set to 2)-->
+        <Style x:Key="SparklinePolyStyle" TargetType="Polyline">
+            <Setter Property="StrokeThickness" Value="0.75"/>
+        </Style>
+    </UserControl.Resources>
+    <StackPanel x:Name="LayoutRoot" DataContext="{Binding Source={StaticResource SampleDataSource}}" Margin="0,0,0,0" Loaded="LayoutRoot_Loaded">
+
+        <StackPanel>
+            <TextBlock Text="Domain Performance Report" HorizontalAlignment="Center" FontWeight="Bold" FontSize="16"></TextBlock>
+            <TextBlock TextWrapping="Wrap" TextAlignment="Center" Text="This report illlustrates the performane of our domains summarized across our main distribution regions from 7/8/2008 to 9/8/2008" HorizontalAlignment="Center" FontSize="10.667" Margin="35,0,0,0" FontStyle="Italic" Height="35" Width="500"/>
+            <data:DataGrid x:Name="CrossTabReportComplete" Margin="0,0,0,0" AlternatingRowBackground="White" 
+        RowBackground="White" AutoGenerateColumns="False" Height="425" Width="600">
+                <data:DataGrid.Columns>
+                    <!-- Domain Name column -->
+                    <data:DataGridTextColumn Header="Domain Name" Binding="{Binding DomainName}"/>
+
+                    <!-- USA Region -->
+                    <data:DataGridTemplateColumn Header="USA Region">
+                        <!-- Cell that will host the chart -->
+                        <data:DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical">
+                                    <StackPanel Orientation="Horizontal">
+                                        <!-- Label  -->                               
+                                        <TextBlock Text= "Num of page views: " TextAlignment="Center"></TextBlock>
+                                        <!-- PageViews Value  -->
+                                        <TextBlock Text= "{Binding USAHitsSum}" TextAlignment="Center"></TextBlock>
+                                    </StackPanel>
+                                    <!-- Word-Sized Chart -->
+                                    <chartingToolkit:Chart x:Name="Domain1Chart" Width="125" Height="75" Margin="10,20,10,20" d:LayoutOverrides="Width, Height" VerticalAlignment="Top">
+                                        <chartingToolkit:Chart.Template>
+                                            <ControlTemplate TargetType="chartingToolkit:Chart">
+                                                <chartingPrimitivesToolkit:EdgePanel x:Name="ChartArea">
+                                                    <Grid Canvas.ZIndex="-1" />
+                                                </chartingPrimitivesToolkit:EdgePanel>
+                                            </ControlTemplate>
+                                        </chartingToolkit:Chart.Template>
+                                        <chartingToolkit:Chart.Axes>
+                                            <chartingToolkit:DateTimeAxis Orientation="X" MaxHeight="1" Opacity="0" Minimum="2008/07/07" Maximum="2008/09/08"/>
+                                            <chartingToolkit:LinearAxis Orientation="Y" Opacity="1" Minimum="0" Maximum="100">
+                                                <chartingToolkit:LinearAxis.AxisLabelStyle>
+                                                    <Style TargetType="chartingToolkit:AxisLabel">
+                                                        <Setter Property="StringFormat" Value="{}{0:0k}"/>
+                                                    </Style>
+                                                </chartingToolkit:LinearAxis.AxisLabelStyle>
+                                            </chartingToolkit:LinearAxis>
+                                        </chartingToolkit:Chart.Axes>
+
+                                        <!-- Reference Line -->
+                                        <chartingToolkit:LineSeries
+        			                        ItemsSource="{Binding USAHitsGoal}"
+        			                        IndependentValueBinding="{Binding Date}"
+        			                        DependentValueBinding="{Binding NumberOfHits}">
+
+                                            <!-- DataPointStyle -->
+                                            <chartingToolkit:LineSeries.DataPointStyle>
+                                                <Style TargetType="Control">
+                                                    <!-- Collapase the data points -->
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                    <!-- Set color to black -->
+                                                    <Setter Property="Background" Value="Black"/>
+                                                </Style>
+                                            </chartingToolkit:LineSeries.DataPointStyle>
+
+                                            <chartingToolkit:LineSeries.PolylineStyle>
+                                                <Style TargetType="Polyline">
+                                                    <Setter Property="Opacity" Value="0.75"/>
+                                                    <Setter Property="StrokeDashArray" Value="2" />
+                                                    <Setter Property="StrokeThickness" Value="0.75" />
+                                                </Style>
+                                            </chartingToolkit:LineSeries.PolylineStyle>
+                                        </chartingToolkit:LineSeries>
+                                        
+                                        <!-- Data Line -->
+                                        <chartingToolkit:LineSeries
+			                                ItemsSource="{Binding USAHits}"
+			                                IndependentValueBinding="{Binding Date}"
+			                                DependentValueBinding="{Binding NumberOfHits}"
+			                                PolylineStyle="{StaticResource SparklinePolyStyle}">
+
+                                            <!-- DataPointStyle -->
+                                            <chartingToolkit:LineSeries.DataPointStyle>
+                                                <Style TargetType="Control">
+                                                    <!-- Collapase the data points -->
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                    <!-- Set color to black -->
+                                                    <Setter Property="Background" Value="Black"/>
+                                                </Style>
+                                            </chartingToolkit:LineSeries.DataPointStyle>
+                                        </chartingToolkit:LineSeries>
+                                    </chartingToolkit:Chart>
+                                </StackPanel>
+                            </DataTemplate>
+                        </data:DataGridTemplateColumn.CellTemplate>
+                    </data:DataGridTemplateColumn>
+                    <!-- Europe Region -->
+                    <data:DataGridTemplateColumn Header="Europe Region">
+                        <data:DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical">
+                                    <StackPanel Orientation="Horizontal">
+                                        <!-- Label  -->
+                                        <TextBlock Text= "Num of page views: " TextAlignment="Center"></TextBlock>
+                                        <!-- PageViews Value  -->
+                                        <TextBlock Text= "{Binding EuropeHitsSum}" TextAlignment="Center"></TextBlock>
+                                    </StackPanel>
+                                    <!-- Word-Sized Chart -->
+                                    <chartingToolkit:Chart x:Name="Domain1Chart" Width="125" Height="75" Margin="10,20,10,20" d:LayoutOverrides="Width, Height" VerticalAlignment="Top">
+                                        <chartingToolkit:Chart.Template>
+                                            <ControlTemplate TargetType="chartingToolkit:Chart">
+                                                <chartingPrimitivesToolkit:EdgePanel x:Name="ChartArea">
+                                                    <Grid Canvas.ZIndex="-1" />
+                                                </chartingPrimitivesToolkit:EdgePanel>
+                                            </ControlTemplate>
+                                        </chartingToolkit:Chart.Template>
+                                        <chartingToolkit:Chart.Axes>
+                                            <chartingToolkit:DateTimeAxis Orientation="X" MaxHeight="1" Opacity="0" Minimum="2008/07/07" Maximum="2008/09/08"/>
+                                            <chartingToolkit:LinearAxis Orientation="Y" Opacity="1" Minimum="0" Maximum="100">
+                                                <chartingToolkit:LinearAxis.AxisLabelStyle>
+                                                    <Style TargetType="chartingToolkit:AxisLabel">
+                                                        <Setter Property="StringFormat" Value="{}{0:0k}"/>
+                                                    </Style>
+                                                </chartingToolkit:LinearAxis.AxisLabelStyle>
+                                            </chartingToolkit:LinearAxis>
+                                        </chartingToolkit:Chart.Axes>
+
+                                        <!-- Reference Line -->
+                                        <chartingToolkit:LineSeries
+        			                        ItemsSource="{Binding EuropeHitsGoal}"
+        			                        IndependentValueBinding="{Binding Date}"
+        			                        DependentValueBinding="{Binding NumberOfHits}">
+
+                                            <!-- DataPointStyle -->
+                                            <chartingToolkit:LineSeries.DataPointStyle>
+                                                <Style TargetType="Control">
+                                                    <!-- Collapase the data points -->
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                    <!-- Set color to black -->
+                                                    <Setter Property="Background" Value="Black"/>
+                                                </Style>
+                                            </chartingToolkit:LineSeries.DataPointStyle>
+
+                                            <chartingToolkit:LineSeries.PolylineStyle>
+                                                <Style TargetType="Polyline">
+                                                    <Setter Property="Opacity" Value="0.75"/>
+                                                    <Setter Property="StrokeDashArray" Value="2" />
+                                                    <Setter Property="StrokeThickness" Value="0.75" />
+                                                </Style>
+                                            </chartingToolkit:LineSeries.PolylineStyle>
+                                        </chartingToolkit:LineSeries>
+
+                                        <!-- Data Line -->
+                                        <chartingToolkit:LineSeries
+			                                ItemsSource="{Binding EuropeHits}"
+			                                IndependentValueBinding="{Binding Date}"
+			                                DependentValueBinding="{Binding NumberOfHits}"
+			                                PolylineStyle="{StaticResource SparklinePolyStyle}">
+
+                                            <!-- DataPointStyle -->
+                                            <chartingToolkit:LineSeries.DataPointStyle>
+                                                <Style TargetType="Control">
+                                                    <!-- Collapase the data points -->
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                    <!-- Set color to black -->
+                                                    <Setter Property="Background" Value="Black"/>
+                                                </Style>
+                                            </chartingToolkit:LineSeries.DataPointStyle>
+                                        </chartingToolkit:LineSeries>
+                                    </chartingToolkit:Chart>
+                                </StackPanel>
+                            </DataTemplate>
+                        </data:DataGridTemplateColumn.CellTemplate>
+                    </data:DataGridTemplateColumn>
+                    <!-- Other Region -->
+                    <data:DataGridTemplateColumn Header="Other Region">
+                        <data:DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical">
+                                    <StackPanel Orientation="Horizontal">
+                                        <!-- Label  -->
+                                        <TextBlock Text= "Num of page views: " TextAlignment="Center"></TextBlock>
+                                        <!-- PageViews Value  -->
+                                        <TextBlock Text= "{Binding OtherHitsSum}" TextAlignment="Center"></TextBlock>
+                                    </StackPanel>
+                                    <!-- Word-Sized Chart -->
+                                    <chartingToolkit:Chart x:Name="Domain1Chart" Width="125" Height="75" Margin="10,20,10,20" d:LayoutOverrides="Width, Height" VerticalAlignment="Top">
+                                        <chartingToolkit:Chart.Template>
+                                            <ControlTemplate TargetType="chartingToolkit:Chart">
+                                                <chartingPrimitivesToolkit:EdgePanel x:Name="ChartArea">
+                                                    <Grid Canvas.ZIndex="-1" />
+                                                </chartingPrimitivesToolkit:EdgePanel>
+                                            </ControlTemplate>
+                                        </chartingToolkit:Chart.Template>
+                                        <chartingToolkit:Chart.Axes>
+                                            <chartingToolkit:DateTimeAxis Orientation="X" MaxHeight="1" Opacity="0" Minimum="2008/07/07" Maximum="2008/09/08"/>
+                                            <chartingToolkit:LinearAxis Orientation="Y" Opacity="1" Minimum="0" Maximum="100">
+                                                <chartingToolkit:LinearAxis.AxisLabelStyle>
+                                                    <Style TargetType="chartingToolkit:AxisLabel">
+                                                        <Setter Property="StringFormat" Value="{}{0:0k}"/>
+                                                    </Style>
+                                                </chartingToolkit:LinearAxis.AxisLabelStyle>
+                                            </chartingToolkit:LinearAxis>
+                                        </chartingToolkit:Chart.Axes>
+
+                                        <!-- Reference Line -->
+                                        <chartingToolkit:LineSeries
+        			                        ItemsSource="{Binding OtherHitsGoal}"
+        			                        IndependentValueBinding="{Binding Date}"
+        			                        DependentValueBinding="{Binding NumberOfHits}">
+
+                                            <!-- DataPointStyle -->
+                                            <chartingToolkit:LineSeries.DataPointStyle>
+                                                <Style TargetType="Control">
+                                                    <!-- Collapase the data points -->
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                    <!-- Set color to black -->
+                                                    <Setter Property="Background" Value="Black"/>
+                                                </Style>
+                                            </chartingToolkit:LineSeries.DataPointStyle>
+
+                                            <chartingToolkit:LineSeries.PolylineStyle>
+                                                <Style TargetType="Polyline">
+                                                    <Setter Property="Opacity" Value="0.75"/>
+                                                    <Setter Property="StrokeDashArray" Value="2" />
+                                                    <Setter Property="StrokeThickness" Value="0.75" />
+                                                </Style>
+                                            </chartingToolkit:LineSeries.PolylineStyle>
+                                        </chartingToolkit:LineSeries>
+
+                                        <!-- Data Line -->
+                                        <chartingToolkit:LineSeries
+			                                ItemsSource="{Binding OtherHits}"
+			                                IndependentValueBinding="{Binding Date}"
+			                                DependentValueBinding="{Binding NumberOfHits}"
+			                                PolylineStyle="{StaticResource SparklinePolyStyle}">
+
+                                            <!-- DataPointStyle -->
+                                            <chartingToolkit:LineSeries.DataPointStyle>
+                                                <Style TargetType="Control">
+                                                    <!-- Collapase the data points -->
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                    <!-- Set color to black -->
+                                                    <Setter Property="Background" Value="Black"/>
+                                                </Style>
+                                            </chartingToolkit:LineSeries.DataPointStyle>
+                                        </chartingToolkit:LineSeries>
+                                    </chartingToolkit:Chart>
+                                </StackPanel>
+                            </DataTemplate>
+                        </data:DataGridTemplateColumn.CellTemplate>
+                    </data:DataGridTemplateColumn>
+                </data:DataGrid.Columns>
+            </data:DataGrid>
+        </StackPanel>
+
+        <data:DataGrid Margin="0,0,0,0" AutoGenerateColumns="False" ItemsSource="{Binding DomainInfo}" Height="150" Width="500">
+			<data:DataGrid.Columns>
+				<data:DataGridTextColumn Header="Domain Name" Binding="{Binding DomainName}"/>
+				<data:DataGridTextColumn Header="USA Region" Binding="{Binding USARegion}"/>
+				<data:DataGridTextColumn Header="Europe Region" Binding="{Binding EuropeRegion}"/>
+				<data:DataGridTextColumn Header="Other Region" Binding="{Binding OtherRegion}"/>
+			</data:DataGrid.Columns>
+		</data:DataGrid>
+
+	</StackPanel>
+</UserControl>

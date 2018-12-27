@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightBulletGraphApp", "SilverlightBulletGraphApp\SilverlightBulletGraphApp.csproj", "{7BB709B7-52B6-4817-B98D-B03B4098BDED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightBulletGraphApp.Web", "SilverlightBulletGraphApp.Web\SilverlightBulletGraphApp.Web.csproj", "{AD90E1A4-C26F-4D7C-95C5-38AA145EF975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightBulletGraph", "SilverlightBulletGraph\SilverlightBulletGraph.csproj", "{3A79BE85-FFAE-4A78-8C8F-81C6110AB53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB709B7-52B6-4817-B98D-B03B4098BDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB709B7-52B6-4817-B98D-B03B4098BDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB709B7-52B6-4817-B98D-B03B4098BDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB709B7-52B6-4817-B98D-B03B4098BDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD90E1A4-C26F-4D7C-95C5-38AA145EF975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD90E1A4-C26F-4D7C-95C5-38AA145EF975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD90E1A4-C26F-4D7C-95C5-38AA145EF975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD90E1A4-C26F-4D7C-95C5-38AA145EF975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A79BE85-FFAE-4A78-8C8F-81C6110AB53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A79BE85-FFAE-4A78-8C8F-81C6110AB53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A79BE85-FFAE-4A78-8C8F-81C6110AB53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A79BE85-FFAE-4A78-8C8F-81C6110AB53A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

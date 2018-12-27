@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SilverlightHostingCustomPivotViewerSampleSite", "SilverlightHostingCustomPivotViewerSampleSite\", "{88D65DE9-CFD5-4EFA-889A-A631FF65C282}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/SilverlightHostingCustomPivotViewerSampleSite"
+		Debug.AspNetCompiler.PhysicalPath = "SilverlightHostingCustomPivotViewerSampleSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SilverlightHostingCustomPivotViewerSampleSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SilverlightHostingCustomPivotViewerSampleSite"
+		Release.AspNetCompiler.PhysicalPath = "SilverlightHostingCustomPivotViewerSampleSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SilverlightHostingCustomPivotViewerSampleSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1882"
+		ProjOutputReferences = "{65aaa176-c859-4be6-8921-5246a4d64772}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightHostingCustomPivotViewerSample", "SilverlightHostingCustomPivotViewerSample\SilverlightHostingCustomPivotViewerSample.csproj", "{65AAA176-C859-4BE6-8921-5246A4D64772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D65DE9-CFD5-4EFA-889A-A631FF65C282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D65DE9-CFD5-4EFA-889A-A631FF65C282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D65DE9-CFD5-4EFA-889A-A631FF65C282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D65DE9-CFD5-4EFA-889A-A631FF65C282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AAA176-C859-4BE6-8921-5246A4D64772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AAA176-C859-4BE6-8921-5246A4D64772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AAA176-C859-4BE6-8921-5246A4D64772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AAA176-C859-4BE6-8921-5246A4D64772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
